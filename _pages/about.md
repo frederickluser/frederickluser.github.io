@@ -23,6 +23,7 @@ We find that a same-chain store opening in the proximity of households' residenc
 ## Conferences and Presentations
 * 2022
      * *European Meeting of the Urban Economics Association*, London School of Economics.
+     * *Annual Congress of the Swiss Society of Economics and Statistics (SSES)*, Fribourg.
      * *Workshop of the Swiss Network on Public Economics*, KOF Swiss Economic Institute, ETH Zurich. 
      * *CRED Seminar*, Center for Regional Economic Development, University of Bern. 
      * *Brown Bag*, Department of Economics, University of Bern.
