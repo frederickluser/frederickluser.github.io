@@ -13,7 +13,7 @@ Hey there! I’m a second year PhD Candidate in Economics at the Department of E
 
 ## Work in Progress
 ### Spatial Frictions in Consumption and Retail Competition (with Max von Ehrlich and Tobias Seidel)
-*Draft and slides available upon request*
+*Draft and <a href="https://drive.protonmail.com/urls/S11W8JP4P0#VeX1nIa5gkL1">slides</a> available upon request*
 
 <blockquote>
   <p>
