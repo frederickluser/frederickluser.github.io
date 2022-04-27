@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Secure"
-permalink: /secure/
+title: "Slides"
+permalink: /slides/
 author_profile: true
 ---
 
