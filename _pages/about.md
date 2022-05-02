@@ -12,7 +12,7 @@ Hey there! I’m a second year PhD Candidate in Economics at the <a href="https:
 
 
 ## Work in Progress
-### Spatial Frictions in Consumption and Retail Competition (with <a href="https://maxvehrlich.ch/">Max von Ehrlich</a> and<a href="https://sites.google.com/site/tobiasseideluni/home-1">Tobias Seidel</a>)
+### Spatial Frictions in Consumption and Retail Competition (with <a href="https://maxvehrlich.ch/">Max von Ehrlich</a> and <a href="https://sites.google.com/site/tobiasseideluni/home-1">Tobias Seidel</a>)
 *Draft and <a href="https://drive.protonmail.com/urls/S11W8JP4P0#VeX1nIa5gkL1">slides</a> available upon request*
 
 <blockquote>
