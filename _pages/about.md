@@ -24,9 +24,9 @@ Hey there! I’m a second year PhD Candidate in Economics at the <a href="https:
 
 ## Conferences and Presentations
 * 2022
-     * *European Meeting of the Urban Economics Association*, London School of Economics.
-     * *Annual Congress of the Swiss Society of Economics and Statistics (SSES)*, Fribourg.
-     * *Workshop of the Swiss Network on Public Economics*, KOF Swiss Economic Institute, ETH Zurich. 
+     * *<a href="https://urbaneconomics.org/meetings/emuea2022/program.html">European Meeting of the Urban Economics Association</a>*, London School of Economics.
+     * *<a href="https://www.sgvs.ch/conferences/sses2022">Annual Congress of the Swiss Society of Economics and Statistics (SSES)</a>*, Fribourg.
+     * *<a href="https://kof.ethz.ch/en/news-and-events/event-calendar-page/swiss-network-on-public-economics--snope--call-for-papers.html">Workshop of the Swiss Network on Public Economics</a>*, KOF Swiss Economic Institute, ETH Zurich. 
      * *CRED Seminar*, Center for Regional Economic Development, University of Bern. 
      * *Brown Bag*, Department of Economics, University of Bern.
 
