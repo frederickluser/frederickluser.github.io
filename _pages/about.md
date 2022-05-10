@@ -31,7 +31,7 @@ Hey there! I’m a second year PhD Candidate in Economics at the <a href="https:
      * *Brown Bag*, Department of Economics, University of Bern.
 
 ## Teaching Assistant
-* Public Economics, Spring 2021 & 2022
+* Public Economics, Maximilian von Ehrlich, Spring 2021 & 2022
 * Tax Policy, Maximilian von Ehrlich, Fall 2020 & 2021
 * Applied Econometrics with R, Blaise Melly, Fall 2019
 * Introduction to Macroeconomics, Carlos Lenz, Spring 2018 & 2019
