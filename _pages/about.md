@@ -15,6 +15,8 @@ Hey there! I’m a second year PhD Candidate in Economics at the <a href="https:
 ### Spatial Frictions in Consumption and Retail Competition (with <a href="https://maxvehrlich.ch/">Max von Ehrlich</a> and <a href="https://sites.google.com/site/tobiasseideluni/home-1">Tobias Seidel</a>)
 *<a href="https://drive.protonmail.com/urls/S11W8JP4P0#VeX1nIa5gkL1">Draft and slides</a> available upon request*
 
+
+
 <blockquote>
   <p>
     In this paper, we empirically quantify spatial consumption frictions and the degree of local retail competition. We exploit a unique data set including 1.5 billion daily transactions in combination with detailed characteristics of more than 3 million households. Our estimates are based on a quasi--experimental approach to estimate the causal effect of store openings. 
@@ -24,7 +26,9 @@ Hey there! I’m a second year PhD Candidate in Economics at the <a href="https:
 
 ## Conferences and Presentations
 * 2022
+
      * *<a href="https://urbaneconomics.org/meetings/emuea2022/program.html">European Meeting of the Urban Economics Association</a>*, London School of Economics.
+     * *<a href="https://www.socialpolitik.de/de/termin/jahrestagung-2022">Annual Conference of the Verein für Socialpolitik</a>*, Basel.
      * *<a href="https://www.sgvs.ch/conferences/sses2022">Annual Congress of the Swiss Society of Economics and Statistics (SSES)</a>*, Fribourg.
      * *<a href="https://kof.ethz.ch/en/news-and-events/event-calendar-page/swiss-network-on-public-economics--snope--call-for-papers.html">Workshop of the Swiss Network on Public Economics</a>*, KOF Swiss Economic Institute, ETH Zurich. 
      * *CRED Seminar*, Center for Regional Economic Development, University of Bern. 
