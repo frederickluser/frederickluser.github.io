@@ -24,6 +24,11 @@ Hey there! I’m a second year PhD Candidate in Economics at the <a href="https:
 
 [migros-proton]: https://drive.protonmail.com/urls/S11W8JP4P0#VeX1nIa5gkL1
 
+[comment]: # (Pay Less or Travel More? Evidence from Border Closures)
+[comment]: # (The Salient Effect of Family Health Shocks on Nutrition)
+[comment]: # (Trapped in Poor Diets: The unintended consequences of Nutri Score Introductions)
+
+of malthusian food trap 
 
 ## Conferences and Presentations
 * 2022
