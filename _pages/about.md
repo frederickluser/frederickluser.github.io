@@ -8,36 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNS829G"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-
 
 Hey there! I’m a second year PhD Candidate in Economics at the <a href="https://www.vwi.unibe.ch/index_eng.html">Department of Economics</a> and the <a href="https://www.cred.unibe.ch/index_eng.html">Center for Regional Economic Development (CRED)</a>  at the University of Bern. My main research interests are in urban and regional economics with a focus on household mobility and nutrition.
 
 
 ## Work in Progress
+
 ### Spatial Frictions in Consumption and Retail Competition (with <a href="https://maxvehrlich.ch/">Max von Ehrlich</a> and <a href="https://sites.google.com/site/tobiasseideluni/home-1">Tobias Seidel</a>)
-*<a href="https://drive.protonmail.com/urls/S11W8JP4P0#VeX1nIa5gkL1">Draft and slides</a> available upon request*
-<blockquote>
-  <p>
+<small>[ <a href="#/" onclick="visib('migros')">Abstract</a> | [Draft (on request)][migros-proton] ] </small>
+
+<div id="migros" style="display: none; text-align: justify; line-height: 1.2" ><small>
     In this paper, we empirically quantify spatial consumption frictions and the degree of local retail competition. We exploit a unique data set including 1.5 billion daily transactions in combination with detailed characteristics of more than 3 million households. Our estimates are based on a quasi--experimental approach to estimate the causal effect of store openings. 
     We find that a same-chain store opening in the proximity of households' residences reduces their expenditures at incumbent stores by 10% in the first month. Smaller effects for competitors suggest imperfect substitutability between retail chains. Exploiting more than 350 openings, we identify precise consumption gravity functions which allow us to quantify spatial consumption areas. We document significant heterogeneities across regions and socio-demographic groups, indicating substantial inequalities in consumption access.
-  </p>
-</blockquote>
-
-
-
-**Design-Based Uncertainty for Quasi-Experiments** (with Ashesh Rambachan). 2022.<br/>
-<small>[ <a href="#/" onclick="visib('design-based')">Abstract</a> | [Draft][design-based-arxiv] ] </small>
-
-<div id="design-based" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Social scientists are often interested in estimating causal effects in settings where all units in the population are observed (e.g. all 50 US states). Design-based approaches to uncertainty, which view the realization of treatment assignments as the source of randomness, may be more appealing than standard sampling-based approaches in such contexts. This paper develops a design-based theory of uncertainty that is suitable for analyzing difference-in-differences (DiD) and instrumental variables (IV) estimators, which are typically employed in settings where completely random assignment of treatment is implausible. We consider a model where treatment status is stochastic but the probability of receiving treatment can vary arbitrarily across units. As a building block, we first show that the simple difference-in-means (SDIM) estimator is unbiased for a design-based analog of the average treatment effect on treated (ATT) under a design-based analog to mean-independence of treatment and untreated potential outcomes. We further show that the usual standard errors for the SDIM are valid but potentially conservative, even under constant treatment effects. Our results imply that the DiD estimator is unbiased and clustered standard errors are valid (but potentially conservative) under a design-based analog to parallel trends. Likewise, the IV estimator is consistent, and its standard errors are asymptotically valid, for a re-weighted local average treatment effect (LATE) under orthogonality conditions that are weaker than complete random assignment of the instrument.
 </small><br><br/></div>
 
-[design-based-arxiv]: https://arxiv.org/pdf/2008.00602.pdf
-
+[migros-proton]: https://drive.protonmail.com/urls/S11W8JP4P0#VeX1nIa5gkL1
 
 
 ## Conferences and Presentations
