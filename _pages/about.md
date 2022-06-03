@@ -23,6 +23,16 @@ Hey there! I’m a second year PhD Candidate in Economics at the <a href="https:
 
 
 
+**Design-Based Uncertainty for Quasi-Experiments** (with Ashesh Rambachan). 2022.<br/>
+<small>[ <a href="#/" onclick="visib('design-based')">Abstract</a> | [Draft][design-based-arxiv] ] </small>
+
+<div id="design-based" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Social scientists are often interested in estimating causal effects in settings where all units in the population are observed (e.g. all 50 US states). Design-based approaches to uncertainty, which view the realization of treatment assignments as the source of randomness, may be more appealing than standard sampling-based approaches in such contexts. This paper develops a design-based theory of uncertainty that is suitable for analyzing difference-in-differences (DiD) and instrumental variables (IV) estimators, which are typically employed in settings where completely random assignment of treatment is implausible. We consider a model where treatment status is stochastic but the probability of receiving treatment can vary arbitrarily across units. As a building block, we first show that the simple difference-in-means (SDIM) estimator is unbiased for a design-based analog of the average treatment effect on treated (ATT) under a design-based analog to mean-independence of treatment and untreated potential outcomes. We further show that the usual standard errors for the SDIM are valid but potentially conservative, even under constant treatment effects. Our results imply that the DiD estimator is unbiased and clustered standard errors are valid (but potentially conservative) under a design-based analog to parallel trends. Likewise, the IV estimator is consistent, and its standard errors are asymptotically valid, for a re-weighted local average treatment effect (LATE) under orthogonality conditions that are weaker than complete random assignment of the instrument.
+</small><br><br/></div>
+
+[design-based-arxiv]: https://arxiv.org/pdf/2008.00602.pdf
+
+
 
 ## Conferences and Presentations
 * 2022
