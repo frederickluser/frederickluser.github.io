@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Frederic Kluser"
+title                    : "Frédéric Kluser"
 title_separator          : "-"
-name                     : &name "Frederic Kluser"
+name                     : &name "Frédéric Kluser"
 description              : &description "personal description"
 url                      : https://frederickluser.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -65,7 +65,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Frederic Kluser"
+  name             : "Frédéric Kluser"
   avatar           : "IMG_5630.jpeg"
   bio              : "PhD Candidate in Economics"
   location         : 
