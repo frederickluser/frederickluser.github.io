@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNS829G"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
 Hey there! I’m a second year PhD Candidate in Economics at the <a href="https://www.vwi.unibe.ch/index_eng.html">Department of Economics</a> and the <a href="https://www.cred.unibe.ch/index_eng.html">Center for Regional Economic Development (CRED)</a>  at the University of Bern. My main research interests are in urban and regional economics with a focus on household mobility and nutrition.
 
 
