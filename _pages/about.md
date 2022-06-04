@@ -28,7 +28,6 @@ Hey there! I’m a second year PhD Candidate in Economics at the <a href="https:
 [comment]: # (The Salient Effect of Family Health Shocks on Nutrition)
 [comment]: # (Trapped in Poor Diets: The unintended consequences of Nutri Score Introductions)
 
-of malthusian food trap 
 
 ## Conferences and Presentations
 * 2022
