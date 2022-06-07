@@ -14,8 +14,6 @@ Hey there! I’m a second year PhD Candidate in Economics at the <a href="https:
 
 ## Work in Progress
 
-### [Download here](https://github.com/frederickluser/frederickluser.github.io/blob/master/files/cv_frederic_kluser.pdf)
-
 ### Spatial Frictions in Consumption and Retail Competition (with <a href="https://maxvehrlich.ch/">Max von Ehrlich</a> and <a href="https://sites.google.com/site/tobiasseideluni/home-1">Tobias Seidel</a>)
 <small>[ <a href="#/" onclick="visib('migros')">Abstract</a> | [Draft (on request)][migros-proton] ] </small>
 
