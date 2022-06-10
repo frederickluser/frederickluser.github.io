@@ -21,12 +21,9 @@ Hey there! I’m a second year PhD Candidate in Economics at the <a href="https:
   In this paper, we empirically quantify spatial consumption frictions and the degree of local retail competition. We exploit a unique data set including 1.5 billion daily transactions in combination with detailed characteristics of more than 3 million households. Our estimates are based on a quasi-experimental approach to estimate the causal effect of store openings. 
   We find that a same-chain store opening in the proximity of households' residences reduces their expenditures at incumbent stores by 30% in the first month. Smaller effects for competitors suggest imperfect substitutability between retail chains. Exploiting more than 350 openings, we identify causal consumption gravity functions, which allow us to quantify spatial consumption areas. We document significant heterogeneities across regions and socio-demographic groups, indicating substantial inequalities in consumption access.
 </small><br><br/>
-<img src="files/openings.gif" alt="Be patient..." /></div>
+<img src="files/openings.gif" alt="Be patient..." />
 </div>
 
-<div id="main" style="width: 100%; height: 100%;">
-<img src="files/openings.gif" alt="Be patient..." /></div>
-</div>
 
 
 
