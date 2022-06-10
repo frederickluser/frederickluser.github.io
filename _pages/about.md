@@ -24,6 +24,8 @@ Hey there! I’m a second year PhD Candidate in Economics at the <a href="https:
 ![alt text](files/openings.gif)
 </small><br><br/></div>
 
+![alt text](files/openings.gif)
+
 [migros-proton]: https://drive.protonmail.com/urls/S11W8JP4P0#VeX1nIa5gkL1
 
 [comment]: # (Pay Less or Travel More? Evidence from Border Closures)
