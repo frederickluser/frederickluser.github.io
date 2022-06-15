@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-<a href="/files/cv_frederic_kluser.pdf" download>Download here (Last updated: June 07, 2022)</a>
+<a href="/files/cv_frederic_kluser.pdf" download>Download here</a>
