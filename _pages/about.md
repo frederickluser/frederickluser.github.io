@@ -24,12 +24,12 @@ Hey there! I’m a second year PhD Candidate in Economics at the <a href="https:
 <img src="files/openings.gif" alt="Be patient..." />
 </div>
 
+### Pay Less or Travel More? Evidence from the Swiss Border Closure
 
 
 
 [migros-proton]: https://drive.protonmail.com/urls/S11W8JP4P0#VeX1nIa5gkL1
 
-[comment]: # (Pay Less or Travel More? Evidence from Border Closures)
 [comment]: # (The Salient Effect of Family Health Shocks on Nutrition)
 [comment]: # (Trapped in Poor Diets: The unintended consequences of Nutri Score Introductions)
 
