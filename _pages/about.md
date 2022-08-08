@@ -36,11 +36,11 @@ Hey there! I’m a second year PhD Candidate in Economics at the <a href="https:
 
 ## Conferences and Presentations
 * 2022
-
      * *<a href="https://urbaneconomics.org/meetings/emuea2022/program.html">European Meeting of the Urban Economics Association</a>*, London School of Economics.
-     * *<a href="https://www.socialpolitik.de/de/termin/jahrestagung-2022">Annual Conference of the Verein für Socialpolitik</a>*, Basel.
-     * *<a href="https://www.sgvs.ch/conferences/sses2022">Annual Congress of the Swiss Society of Economics and Statistics (SSES)</a>*, Fribourg.
-     * *<a href="https://kof.ethz.ch/en/news-and-events/event-calendar-page/swiss-network-on-public-economics--snope--call-for-papers.html">Workshop of the Swiss Network on Public Economics</a>*, KOF Swiss Economic Institute, ETH Zurich. 
+     * *<a href="https://www.socialpolitik.de/de/termin/jahrestagung-2022">Annual Conference of the Verein für Socialpolitik</a>*, University of Basel.
+     * *<a href="https://www.ifo.de/en/event/2022-09-08/12th-ifo-dresden-workshop-regional-economics">ifo Dresden Workshop on Regional Economics</a>*, ifo Dresden.
+     * *<a href="https://www.sgvs.ch/conferences/sses2022">Annual Congress of the Swiss Society of Economics and Statistics</a>*, University of Fribourg.
+     * *<a href="https://kof.ethz.ch/en/news-and-events/event-calendar-page/swiss-network-on-public-economics--snope--call-for-papers.html">Workshop of the Swiss Network on Public Economics</a>*, ETH Zurich. 
      * *CRED Seminar*, Center for Regional Economic Development, University of Bern. 
      * *Brown Bag*, Department of Economics, University of Bern.
 
