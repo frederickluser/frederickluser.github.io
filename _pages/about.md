@@ -15,7 +15,7 @@ Hey there! I’m a second year PhD Candidate in Economics at the <a href="https:
 ## Work in Progress
 
 ### Spatial Frictions in Consumption and Retail Competition (with <a href="https://maxvehrlich.ch/">Max von Ehrlich</a> and <a href="https://sites.google.com/site/tobiasseideluni/home-1">Tobias Seidel</a>)
-<small>[ <a href="#/" onclick="visib('migros')">Abstract</a> | <a href="/files/Spatial_Consumption_Frictions.pdf" download>Working Paper</a> | <a href="/files/Spatial_Consumption_Frictions_Presentation.pdf" download>Slides</a> ] </small>
+<small>[ <a href="#/" onclick="visib('migros')">Abstract</a> | <a href="https://www.cred.unibe.ch/unibe/portal/fak_wiso/wiso_kzen/cred/content/e54587/e57624/e57629/e1261154/Spatial_Consumption_Frictions_ger.pdf" download>Working Paper</a> | <a href="/files/Spatial_Consumption_Frictions_Presentation.pdf" download>Slides</a> ] </small>
 
 <div id="migros" style="display: none; height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
   In this paper, we empirically quantify spatial consumption frictions and the degree of local retail competition. We exploit a unique data set including 1.5 billion daily transactions in combination with detailed characteristics of more than 3 million households. Our estimates are based on a quasi-experimental approach to estimate the causal effect of store openings. 
