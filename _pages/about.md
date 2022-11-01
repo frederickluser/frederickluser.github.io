@@ -45,7 +45,7 @@ Hey there! I’m a third year PhD Candidate in Economics at the <a href="https:/
      * *<a href="https://www.ifo.de/en/event/2022-09-08/12th-ifo-dresden-workshop-regional-economics">ifo Dresden Workshop on Regional Economics</a>*, ifo Dresden.
      * *<a href="https://www.sgvs.ch/conferences/sses2022">Annual Congress of the Swiss Society of Economics and Statistics</a>*, University of Fribourg.
      * *<a href="https://kof.ethz.ch/en/news-and-events/event-calendar-page/swiss-network-on-public-economics--snope--call-for-papers.html">Workshop of the Swiss Network on Public Economics</a>*, ETH Zurich. 
-     * *CRED Seminar*, Center for Regional Economic Development, University of Bern. 
+     * *<a href="https://www.cred.unibe.ch/unibe/portal/fak_wiso/wiso_kzen/cred/content/e54603/e274780/e918207/e1176032/ProgrammCREDSeminarFS2022_ger.pdf">CRED Seminar</a>*, Center for Regional Economic Development, University of Bern. 
      * *Brown Bag*, Department of Economics, University of Bern.
 
 ## Teaching Assistant
