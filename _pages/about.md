@@ -39,6 +39,11 @@ Hey there! I’m a third year PhD Candidate in Economics at the <a href="https:/
 
 
 ## Conferences and Presentations
+
+* 2023
+     * *<a href="https://www.sgvs.ch/conferences/ysem2023">Young Swiss Economists Meeting</a>*, ETH Zurich.
+     * CRED Seminar, Center for Regional Economic Development, University of Bern. 
+     * *<a href="https://www.cred.unibe.ch/research/events/seminars/index_eng.html">Brown Bag</a>*, Department of Economics, University of Bern.
 * 2022
      * *<a href="https://urbaneconomics.org/meetings/emuea2022/program.html">European Meeting of the Urban Economics Association</a>*, London School of Economics.
      * *<a href="https://www.socialpolitik.de/de/termin/jahrestagung-2022">Annual Conference of the Verein für Socialpolitik</a>*, University of Basel.
