@@ -54,20 +54,20 @@ Hey there! I’m a third year PhD Candidate in Economics at the <a href="https:/
      * *<a href="https://www.cred.unibe.ch/research/events/seminars/index_eng.html">Brown Bag</a>*, Department of Economics, University of Bern.
 
 
-## Teaching Assistant
-* Public Economics, Maximilian von Ehrlich, Spring 2021 & 2022
-* Tax Policy, Maximilian von Ehrlich, Fall 2020 & 2021
-* Applied Econometrics with R, Blaise Melly, Fall 2019
-* Introduction to Macroeconomics, Carlos Lenz, Spring 2018 & 2019
-* Money, Credit and Banking, Nils Herger, Fall 2018
-* Introduction to Microeconomics, Winand Emons, Spring 2018
+[comment]:## Teaching Assistant
+[comment]:* Public Economics, Maximilian von Ehrlich, Spring 2021 & 2022
+[comment]:* Tax Policy, Maximilian von Ehrlich, Fall 2020 & 2021
+[comment]:* Applied Econometrics with R, Blaise Melly, Fall 2019
+[comment]: * Introduction to Macroeconomics, Carlos Lenz, Spring 2018 & 2019
+[comment]:* Money, Credit and Banking, Nils Herger, Fall 2018
+[comment]:* Introduction to Microeconomics, Winand Emons, Spring 2018
 
-## Education
-* Ph.D. in Economics, *University of Bern*, 2020-2024 (expected).
-  * Swiss Program for Beginning Doctoral Students in Economics, *Study Center Gerzensee*, 2020-2021.
-* M.Sc. in International and Monetary Economics, *University of Bern*, 2018-2020.
-  * Visiting Student, *Toulouse School of Economics*, 2020.
-* B.Sc. in Economics, *University of Bern*, 2015-2018.
+[comment]:## Education
+[comment]:* Ph.D. in Economics, *University of Bern*, 2020-2024 (expected).
+[comment]:  * Swiss Program for Beginning Doctoral Students in Economics, *Study Center Gerzensee*, 2020-2021.
+[comment]:* M.Sc. in International and Monetary Economics, *University of Bern*, 2018-2020.
+[comment]:  * Visiting Student, *Toulouse School of Economics*, 2020.
+[comment]:* B.Sc. in Economics, *University of Bern*, 2015-2018.
 
 
 [//]: This java script is the button to show abstract
