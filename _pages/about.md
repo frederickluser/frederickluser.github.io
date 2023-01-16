@@ -16,8 +16,7 @@ Hey there! I’m a third year PhD Candidate in Economics at the <a href="https:/
 ## Working Papers
 
 ### Spatial Frictions in Consumption and Retail Competition (with <a href="https://maxvehrlich.ch/">Max von Ehrlich</a> and <a href="https://sites.google.com/site/tobiasseideluni/home-1">Tobias Seidel</a>)
-<small>[ <a href="#/" onclick="visib('migros')">Abstract</a> | <a href="https://www.cred.unibe.ch/unibe/portal/fak_wiso/wiso_kzen/cred/content/e54587/e57624/e57629/e1261154/Spatial_Consumption_Frictions_ger.pdf" download>Working Paper</a> | <a href="/files/Spatial_Consumption_Frictions_Presentation.pdf" download>Slides</a> ] </small>
-
+<small>[ <a href="#/" onclick="visib('migros')">Abstract</a> | <a href="https://www.cred.unibe.ch/unibe/portal/fak_wiso/wiso_kzen/cred/content/e54587/e57624/e57629/e1261154/Spatial_Consumption_Frictions_ger.pdf" download>Working Paper</a> ] </small>
 <div id="migros" style="display: none; height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
   In this paper, we empirically quantify spatial consumption frictions and the degree of local retail competition. We exploit a unique data set including 1.5 billion daily transactions in combination with detailed characteristics of more than 3 million households. Our estimates are based on a quasi-experimental approach to estimate the causal effect of store openings. 
   We find that a same-chain store opening in the proximity of households' residences reduces their expenditures at incumbent stores by 30% in the first month. Smaller effects for competitors suggest imperfect substitutability between retail chains. Exploiting more than 350 openings, we identify causal consumption gravity functions, which allow us to quantify spatial consumption areas. We document significant heterogeneities across regions and socio-demographic groups, indicating substantial inequalities in consumption access.
@@ -28,10 +27,24 @@ Hey there! I’m a third year PhD Candidate in Economics at the <a href="https:/
 ## Work in Progress
 
 ### Intergenerational Nutrition Patterns and How to Break Them
+<small>[ <a href="#/" onclick="visib('diet')">Abstract</a> ] </small>
+Budget limitations cannot explain why poorer households eat unhealthier. 
+Instead, I study how your family shapes your diet with unique grocery transactions and administrative records and find strong intergenerational persistence of food habits.
+Then, I identify the distributional effects of life-changing family events on eating habits (birth of children and death of parents). 
+The birth of a first child increases fruit and vegetable intake by one percentage point. 
+The death of a parent increases consumption by four percentage points, but only for high-income households. 
+Hence, high-income households assimilate health-related information shocks better, enforcing dietary patterns over generations.
+</small><br><br/>
+</div>
 
-### Pay Less or Travel More? Evidence from the Swiss Border Closure
-
-
+### Cross-Border Shopping: Evidence from Swiss Household Consumption
+<small>[ <a href="#/" onclick="visib('border')">Abstract</a> ] </small>
+<div id="border" style="display: none; height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
+Cross-border shopping allows Swiss citizens to buy comparable goods at lower prices abroad.
+During the Covid-19 pandemic, the Swiss government closed all national borders to mitigate the spread of the virus, thereby also prohibiting cross-border shopping. I exploit the random timing of this policy intervention using data on 1.5 billion household-level transactions from the largest Swiss retailer to identify patterns in cross-border shopping. 
+I find that grocery expenditures increased by 10-15% in border regions. Households drive for up to 70 minutes to a cross-border location, but the distance decay function is non-linear and shows that marginal costs of traveling become negligible after 40 minutes.
+</small><br><br/>
+</div>
 
 [migros-proton]: https://drive.protonmail.com/urls/S11W8JP4P0#VeX1nIa5gkL1
 
