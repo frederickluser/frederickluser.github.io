@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-Hey there! I’m a third year PhD Candidate in Economics at the <a href="https://www.vwi.unibe.ch/index_eng.html">Department of Economics</a> and the <a href="https://www.cred.unibe.ch/index_eng.html">Center for Regional Economic Development (CRED)</a>  at the University of Bern. My main research interests are in urban and regional economics with a focus on household mobility and nutrition. <a href="https://frederickluser.github.io/files/cv_frederic_kluser.pdf" download>You can download my CV here</a>.
-
+Hey there! I’m a third year PhD Candidate in Economics at the <a href="https://www.vwi.unibe.ch/index_eng.html">Department of Economics</a> and the <a href="https://www.cred.unibe.ch/index_eng.html">Center for Regional Economic Development (CRED)</a>  at the <a href="https://www.unibe.ch/index_eng.html">University of Bern</a>. My main research interests are in urban and regional economics with a focus on household mobility and nutrition. <a href="https://frederickluser.github.io/files/cv_frederic_kluser.pdf" download>You can download my CV here
+</a>.
 
 
 ## Working Papers
