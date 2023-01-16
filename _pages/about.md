@@ -39,7 +39,7 @@ Hence, high-income households assimilate health-related information shocks bette
 
 ### Cross-Border Shopping: Evidence from Swiss Household Consumption
 <small>[ <a href="#/" onclick="visib('border')">Abstract</a> ] </small>
-<div id="border" style="display: none; height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
+<div style="display: none; height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 Cross-border shopping allows Swiss citizens to buy comparable goods at lower prices abroad.
 During the Covid-19 pandemic, the Swiss government closed all national borders to mitigate the spread of the virus, thereby also prohibiting cross-border shopping. I exploit the random timing of this policy intervention using data on 1.5 billion household-level transactions from the largest Swiss retailer to identify patterns in cross-border shopping. 
 I find that grocery expenditures increased by 10-15% in border regions. Households drive for up to 70 minutes to a cross-border location, but the distance decay function is non-linear and shows that marginal costs of traveling become negligible after 40 minutes.
