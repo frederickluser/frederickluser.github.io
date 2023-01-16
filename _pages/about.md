@@ -13,8 +13,8 @@ Hey there! I’m a third year PhD Candidate in Economics at the <a href="https:/
 
 ## Working Papers
 
-### Spatial Frictions in Consumption and Retail Competition <small>[ <a href="https://www.cred.unibe.ch/unibe/portal/fak_wiso/wiso_kzen/cred/content/e54587/e57624/e57629/e1261154/Spatial_Consumption_Frictions_ger.pdf" download>Working Paper</a> ]</small>
-<small>with <a href="https://maxvehrlich.ch/">Max von Ehrlich</a> and <a href="https://sites.google.com/site/tobiasseideluni/home-1">Tobias Seidel</a></small>
+### Spatial Frictions in Consumption and Retail Competition <small>[ <a href="https://www.cred.unibe.ch/unibe/portal/fak_wiso/wiso_kzen/cred/content/e54587/e57624/e57629/e1261154/Spatial_Consumption_Frictions_ger.pdf" download>Download</a> ]</small>
+<small>with <a href="https://maxvehrlich.ch/">Maximilian von Ehrlich</a> and <a href="https://sites.google.com/site/tobiasseideluni/home-1">Tobias Seidel</a></small>
 <div style="height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
   In this paper, we empirically quantify spatial consumption frictions and the degree of local retail competition. We exploit a unique data set including 1.5 billion daily transactions in combination with detailed characteristics of more than 3 million households. Our estimates are based on a quasi-experimental approach to estimate the causal effect of store openings. 
   We find that a same-chain store opening in the proximity of households' residences reduces their expenditures at incumbent stores by 30% in the first month. Smaller effects for competitors suggest imperfect substitutability between retail chains. Exploiting more than 350 openings, we identify causal consumption gravity functions, which allow us to quantify spatial consumption areas. We document significant heterogeneities across regions and socio-demographic groups, indicating substantial inequalities in consumption access.
