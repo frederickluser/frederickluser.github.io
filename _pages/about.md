@@ -21,13 +21,13 @@ Hey there! I’m a third year PhD Candidate in Economics at the <a href="https:/
   In this paper, we empirically quantify spatial consumption frictions and the degree of local retail competition. We exploit a unique data set including 1.5 billion daily transactions in combination with detailed characteristics of more than 3 million households. Our estimates are based on a quasi-experimental approach to estimate the causal effect of store openings. 
   We find that a same-chain store opening in the proximity of households' residences reduces their expenditures at incumbent stores by 30% in the first month. Smaller effects for competitors suggest imperfect substitutability between retail chains. Exploiting more than 350 openings, we identify causal consumption gravity functions, which allow us to quantify spatial consumption areas. We document significant heterogeneities across regions and socio-demographic groups, indicating substantial inequalities in consumption access.
 </small><br><br/>
-<img src="files/openings.gif" alt="Be patient..." />
 </div>
 
 ## Work in Progress
 
 ### Intergenerational Nutrition Patterns and How to Break Them
 <small>[ <a href="#/" onclick="visib('diet')">Abstract</a> ] </small>
+<div id="diet" style="display: none; height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 Budget limitations cannot explain why poorer households eat unhealthier. 
 Instead, I study how your family shapes your diet with unique grocery transactions and administrative records and find strong intergenerational persistence of food habits.
 Then, I identify the distributional effects of life-changing family events on eating habits (birth of children and death of parents). 
@@ -46,26 +46,21 @@ I find that grocery expenditures increased by 10-15% in border regions. Househol
 </small><br><br/>
 </div>
 
-[migros-proton]: https://drive.protonmail.com/urls/S11W8JP4P0#VeX1nIa5gkL1
 
-[comment]: # (The Salient Effect of Family Health Shocks on Nutrition)
-[comment]: # (Trapped in Poor Diets: The unintended consequences of Nutri Score Introductions)
+[comment]:## Conferences and Presentations
 
-
-## Conferences and Presentations
-
-* 2023
-     * *<a href="https://www.sgvs.ch/conferences/ysem2023">Young Swiss Economists Meeting</a>*, ETH Zurich.
-     * CRED Seminar, Center for Regional Economic Development, University of Bern. 
-     * *<a href="https://www.cred.unibe.ch/research/events/seminars/index_eng.html">Brown Bag</a>*, Department of Economics, University of Bern.
-* 2022
-     * *<a href="https://urbaneconomics.org/meetings/emuea2022/program.html">European Meeting of the Urban Economics Association</a>*, London School of Economics.
-     * *<a href="https://www.socialpolitik.de/de/termin/jahrestagung-2022">Annual Conference of the Verein für Socialpolitik</a>*, University of Basel.
-     * *<a href="https://www.ifo.de/en/event/2022-09-08/12th-ifo-dresden-workshop-regional-economics">ifo Dresden Workshop on Regional Economics</a>*, ifo Dresden.
-     * *<a href="https://www.sgvs.ch/conferences/sses2022">Annual Congress of the Swiss Society of Economics and Statistics</a>*, University of Fribourg.
-     * *<a href="https://kof.ethz.ch/en/news-and-events/event-calendar-page/swiss-network-on-public-economics--snope--call-for-papers.html">Workshop of the Swiss Network on Public Economics</a>*, ETH Zurich. 
-     * *<a href="https://www.cred.unibe.ch/unibe/portal/fak_wiso/wiso_kzen/cred/content/e54603/e274780/e918207/e1176032/ProgrammCREDSeminarFS2022_ger.pdf">CRED Seminar</a>*, Center for Regional Economic Development, University of Bern. 
-     * *<a href="https://www.cred.unibe.ch/research/events/seminars/index_eng.html">Brown Bag</a>*, Department of Economics, University of Bern.
+[comment]:* 2023
+[comment]:     * *<a href="https://www.sgvs.ch/conferences/ysem2023">Young Swiss Economists Meeting</a>*, ETH Zurich.
+[comment]:     * CRED Seminar, Center for Regional Economic Development, University of Bern. 
+[comment]:    * *<a href="https://www.cred.unibe.ch/research/events/seminars/index_eng.html">Brown Bag</a>*, Department of Economics, University of Bern.
+[comment]:* 2022
+[comment]:     * *<a href="https://urbaneconomics.org/meetings/emuea2022/program.html">European Meeting of the Urban Economics Association</a>*, London School of Economics.
+[comment]:     * *<a href="https://www.socialpolitik.de/de/termin/jahrestagung-2022">Annual Conference of the Verein für Socialpolitik</a>*, University of Basel.
+[comment]:     * *<a href="https://www.ifo.de/en/event/2022-09-08/12th-ifo-dresden-workshop-regional-economics">ifo Dresden Workshop on Regional Economics</a>*, ifo Dresden.
+[comment]:     * *<a href="https://www.sgvs.ch/conferences/sses2022">Annual Congress of the Swiss Society of Economics and Statistics</a>*, University of Fribourg.
+[comment]:     * *<a href="https://kof.ethz.ch/en/news-and-events/event-calendar-page/swiss-network-on-public-economics--snope--call-for-papers.html">Workshop of the Swiss Network on Public Economics</a>*, ETH Zurich. 
+[comment]:     * *<a href="https://www.cred.unibe.ch/unibe/portal/fak_wiso/wiso_kzen/cred/content/e54603/e274780/e918207/e1176032/ProgrammCREDSeminarFS2022_ger.pdf">CRED Seminar</a>*, Center for Regional Economic Development, University of Bern. 
+[comment]:     * *<a href="https://www.cred.unibe.ch/research/events/seminars/index_eng.html">Brown Bag</a>*, Department of Economics, University of Bern.
 
 
 [comment]:## Teaching Assistant
