@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I’m a third year PhD Candidate in Economics at the <a href="https://www.vwi.unibe.ch/index_eng.html">Department of Economics</a> and the <a href="https://www.cred.unibe.ch/index_eng.html">Center for Regional Economic Development (CRED)</a>  at the <a href="https://www.unibe.ch/index_eng.html">University of Bern</a>. My main research interests are in urban and regional economics with a focus on household mobility and nutrition. <a href="https://frederickluser.github.io/files/cv_frederic_kluser.pdf" download>You can download my CV here</a>.
+Hey there! I’m a third year PhD Candidate in Economics at the <a href="https://www.vwi.unibe.ch/index_eng.html">Department of Economics</a> and the <a href="https://www.cred.unibe.ch/index_eng.html">Center for Regional Economic Development (CRED)</a>  at the University of Bern. My main research interests are in urban and regional economics with a focus on household mobility and nutrition. <a href="https://frederickluser.github.io/files/cv_frederic_kluser.pdf" download>You can download my CV here</a>.
 
 
 ## Working Papers
 
-### Spatial Frictions in Consumption and Retail Competition [ <a href="https://www.cred.unibe.ch/unibe/portal/fak_wiso/wiso_kzen/cred/content/e54587/e57624/e57629/e1261154/Spatial_Consumption_Frictions_ger.pdf" download>Working Paper</a> ]</small>
+### Spatial Frictions in Consumption and Retail Competition <small>[ <a href="https://www.cred.unibe.ch/unibe/portal/fak_wiso/wiso_kzen/cred/content/e54587/e57624/e57629/e1261154/Spatial_Consumption_Frictions_ger.pdf" download>Working Paper</a> ]</small>
 with <a href="https://maxvehrlich.ch/">Max von Ehrlich</a> and <a href="https://sites.google.com/site/tobiasseideluni/home-1">Tobias Seidel</a>
 <div style="height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
   In this paper, we empirically quantify spatial consumption frictions and the degree of local retail competition. We exploit a unique data set including 1.5 billion daily transactions in combination with detailed characteristics of more than 3 million households. Our estimates are based on a quasi-experimental approach to estimate the causal effect of store openings. 
