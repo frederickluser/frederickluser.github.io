@@ -23,7 +23,7 @@ Hey there! I’m a third year PhD Candidate in Economics at the <a href="https:/
 
 ## Work in Progress
 
-### Intergenerational Nutrition Patterns and How to Break Them
+### Intergenerational Nutrition Patterns and How to Break Them <small>[ Available On Request ]</small>
 [comment]: <small>[ <a href="#/" onclick="visib('diet')">Abstract</a> ] </small>
 <div style="height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 Budget limitations cannot explain why poorer households eat unhealthier. 
@@ -35,7 +35,7 @@ Hence, high-income households assimilate health-related information shocks bette
 </small><br><br/>
 </div>
 
-### Cross-Border Shopping: Evidence from Swiss Household Consumption
+### Cross-Border Shopping: Evidence from Swiss Household Consumption <small>[ Available On Request ]</small>
 <div style="height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 Cross-border shopping allows Swiss citizens to buy comparable goods at lower prices abroad.
 During the Covid-19 pandemic, the Swiss government closed all national borders to mitigate the spread of the virus, thereby also prohibiting cross-border shopping. I exploit the random timing of this policy intervention using data on 1.5 billion household-level transactions from the largest Swiss retailer to identify patterns in cross-border shopping. 
