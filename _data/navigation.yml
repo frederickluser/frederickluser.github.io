@@ -1,5 +1,9 @@
 main:
 
+ main:
+ - title: "Codes"
+   url: /codes/
+
 # main:
 # - title: "CV"
 #   url: /cv/
