@@ -32,6 +32,7 @@ I find that grocery expenditures increased by 10-15% in border regions. Househol
 </div>
 
 ### Intergenerational Nutrition Patterns and How to Break Them <small>[ Available On Request ]</small>
+<small>with <a href="https://martinapons.github.io/">Martina Pons</a></small>
 [comment]: <small>[ <a href="#/" onclick="visib('diet')">Abstract</a> ] </small>
 <div style="height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 Budget limitations cannot explain why poorer households eat unhealthier. 
