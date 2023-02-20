@@ -23,7 +23,7 @@ Hey there! I’m a third year PhD Candidate in Economics at the <a href="https:/
 
 ## Work in Progress
 
-### Cross-Border Shopping: Evidence from Swiss Household Consumption <small>[ <a href="https://frederickluser.github.io/files/Cross_Border_Shopping_2.pdf" download>Download</a> ]</small>
+### Cross-Border Shopping: Evidence from Swiss Household Consumption <small>[ <a href="https://www.cred.unibe.ch/unibe/portal/fak_wiso/wiso_kzen/cred/content/e54587/e57624/e57629/e1319012/CRED_RP42_ger.pdf" download>Download</a> ]</small>
 <div style="height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 Cross-border shopping allows Swiss citizens to buy comparable goods at lower prices abroad.
 During the Covid-19 pandemic, the Swiss government closed all national borders to mitigate the spread of the virus, thereby also prohibiting cross-border shopping. I exploit the random timing of this policy intervention using data on 1.5 billion household-level transactions from the largest Swiss retailer to identify patterns in cross-border shopping. 
