@@ -1,5 +1,5 @@
 ---
-title: "Codes"
+title: "R Packages"
 permalink: /codes/
 author_profile: true
 ---
