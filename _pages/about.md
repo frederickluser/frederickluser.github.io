@@ -22,6 +22,7 @@ Hey there! I’m a third year PhD Candidate in Economics at the <a href="https:/
 </div>
 
 ### Cross-Border Shopping: Evidence from Swiss Household Consumption <small>[ <a href="/files/CRED_RP42.pdf" download>Download</a> ]</small>
+<small>Submitted</a></small>
 <div style="height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 Cross-border shopping allows purchasing comparable goods at lower prices abroad. Meanwhile, it can reduce domestic consumption, sales, or tax collection. During the Covid-19 pandemic, many countries restricted cross-border movements to mitigate the virus’s spread, thereby also prohibiting cross-border shopping. I exploit the random timing of the Swiss border closure using data on 600 million household-linked transactions from the largest Swiss retailer to identify patterns in cross-border shopping. I find that grocery expenditures temporarily increased by 10-15% in border regions. Households drive up to 70 minutes to a location across the border, but the distance decay function is non-linear and marginal costs of traveling become negligible after 40 minutes.
 </small><br><br/>
