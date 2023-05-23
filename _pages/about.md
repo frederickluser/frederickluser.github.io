@@ -30,15 +30,9 @@ Cross-border shopping allows purchasing comparable goods at lower prices abroad.
 
 ## Work in Progress
 
-### Intergenerational Nutrition Patterns and How to Break Them <small>[ Available On Request ]</small>
+### Intergenerational Nutrition Patterns and How to Break Them <small></small>
 <small>with <a href="https://martinapons.github.io/">Martina Pons</a></small>
 <div style="height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
-Budget limitations cannot explain why poorer households eat unhealthier. 
-Instead, I study how your family shapes your diet with unique grocery transactions and administrative records and find strong intergenerational persistence of food habits.
-Then, I identify the distributional effects of life-changing family events on eating habits (birth of children and death of parents). 
-The birth of a first child increases fruit and vegetable intake by one percentage point. 
-The death of a parent increases consumption by four percentage points, but only for high-income households. 
-Hence, high-income households assimilate health-related information shocks better, enforcing dietary patterns over generations.
 </small><br><br/>
 </div>
 
