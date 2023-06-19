@@ -30,46 +30,11 @@ Cross-border shopping allows purchasing comparable goods at lower prices abroad.
 
 ## Work in Progress
 
-### Intergenerational Nutrition Patterns and How to Break Them <small></small>
+### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits <small></small>
 <small>with <a href="https://martinapons.github.io/">Martina Pons</a></small>
 <div style="height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 </small><br><br/>
 </div>
-
-
-
-
-[comment]:## Conferences and Presentations
-
-[comment]:* 2023
-[comment]:     * *<a href="https://www.sgvs.ch/conferences/ysem2023">Young Swiss Economists Meeting</a>*, ETH Zurich.
-[comment]:     * CRED Seminar, Center for Regional Economic Development, University of Bern. 
-[comment]:    * *<a href="https://www.cred.unibe.ch/research/events/seminars/index_eng.html">Brown Bag</a>*, Department of Economics, University of Bern.
-[comment]:* 2022
-[comment]:     * *<a href="https://urbaneconomics.org/meetings/emuea2022/program.html">European Meeting of the Urban Economics Association</a>*, London School of Economics.
-[comment]:     * *<a href="https://www.socialpolitik.de/de/termin/jahrestagung-2022">Annual Conference of the Verein für Socialpolitik</a>*, University of Basel.
-[comment]:     * *<a href="https://www.ifo.de/en/event/2022-09-08/12th-ifo-dresden-workshop-regional-economics">ifo Dresden Workshop on Regional Economics</a>*, ifo Dresden.
-[comment]:     * *<a href="https://www.sgvs.ch/conferences/sses2022">Annual Congress of the Swiss Society of Economics and Statistics</a>*, University of Fribourg.
-[comment]:     * *<a href="https://kof.ethz.ch/en/news-and-events/event-calendar-page/swiss-network-on-public-economics--snope--call-for-papers.html">Workshop of the Swiss Network on Public Economics</a>*, ETH Zurich. 
-[comment]:     * *<a href="https://www.cred.unibe.ch/unibe/portal/fak_wiso/wiso_kzen/cred/content/e54603/e274780/e918207/e1176032/ProgrammCREDSeminarFS2022_ger.pdf">CRED Seminar</a>*, Center for Regional Economic Development, University of Bern. 
-[comment]:     * *<a href="https://www.cred.unibe.ch/research/events/seminars/index_eng.html">Brown Bag</a>*, Department of Economics, University of Bern.
-
-
-[comment]:## Teaching Assistant
-[comment]:* Public Economics, Maximilian von Ehrlich, Spring 2021 & 2022
-[comment]:* Tax Policy, Maximilian von Ehrlich, Fall 2020 & 2021
-[comment]:* Applied Econometrics with R, Blaise Melly, Fall 2019
-[comment]: * Introduction to Macroeconomics, Carlos Lenz, Spring 2018 & 2019
-[comment]:* Money, Credit and Banking, Nils Herger, Fall 2018
-[comment]:* Introduction to Microeconomics, Winand Emons, Spring 2018
-
-[comment]:## Education
-[comment]:* Ph.D. in Economics, *University of Bern*, 2020-2024 (expected).
-[comment]:  * Swiss Program for Beginning Doctoral Students in Economics, *Study Center Gerzensee*, 2020-2021.
-[comment]:* M.Sc. in International and Monetary Economics, *University of Bern*, 2018-2020.
-[comment]:  * Visiting Student, *Toulouse School of Economics*, 2020.
-[comment]:* B.Sc. in Economics, *University of Bern*, 2015-2018.
-
 
 [//]: This java script is the button to show abstract
 <script>
