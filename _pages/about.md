@@ -36,6 +36,12 @@ Cross-border shopping allows purchasing comparable goods at lower prices abroad.
 </small><br><br/>
 </div>
 
+### The Dietary Response to Intergenerational Health Shocks <small></small>
+<div style="height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
+</small><br><br/>
+</div>
+
+
 [//]: This java script is the button to show abstract
 <script>
  function visib(id) {
