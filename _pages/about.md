@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I’m a third year PhD Candidate in Economics at the <a href="https://www.vwi.unibe.ch/index_eng.html">Department of Economics</a> and the <a href="https://www.cred.unibe.ch/index_eng.html">Center for Regional Economic Development (CRED)</a>  at the University of Bern. My main research interests are in urban and regional economics where I try to understand households' consumption and nutrition. <a href="https://frederickluser.github.io/files/cv_frederic_kluser.pdf" download>You can download my CV here</a>.
+Thank you for visiting! I’m a fourth year PhD Candidate in Economics at the <a href="https://www.vwi.unibe.ch/index_eng.html">Department of Economics</a> and the <a href="https://www.cred.unibe.ch/index_eng.html">Center for Regional Economic Development (CRED)</a>  at the University of Bern. 
+Currently, I am visiting the <a href="https://real-estate.wharton.upenn.edu">Wharton School Real Estate Department</a> at the University of Pennsylvania.
+My main research interests are in urban and regional economics where I try to understand households' consumption and nutrition. <a href="https://frederickluser.github.io/files/cv_frederic_kluser.pdf" download>You can download my CV here</a>.
 
 
 ## Working Papers
