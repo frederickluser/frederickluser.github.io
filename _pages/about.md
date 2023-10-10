@@ -15,6 +15,18 @@ My main research interests are in urban and regional economics where I try to un
 
 ## Working Papers
 
+### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits <small>[ <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a> ]</small>
+<small>with <a href="https://martinapons.github.io/">Martina Pons</a></small>
+<div style="height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
+Inadequate diets harm individual health, generate substantial healthcare costs, and reduce labor market income. Yet, the determinants of unhealthy eating habits remain poorly understood.
+We provide novel evidence of the strong intergenerational transmission of dietary choices from parents to children by exploiting unique grocery transaction records matched with administrative data. 
+We find that children with parents spending one percentage point more on fruits and vegetables also spend 0.23 percentage points more on fresh produce.
+Our estimates exceed comparable measures for income transmission, indicating that dietary habits acquired during childhood are particularly persistent.
+Counterfactual analyses show that only 12$\%$ of the intergenerational persistence in diet can be explained by the transmission of income and education. 
+Finally, we find substantial heterogeneities in diet transmission and introduce a habit formation model to discuss potential mechanisms.
+</small><br><br/>
+</div>
+
 ### Spatial Frictions in Consumption and Retail Competition <small>[ <a href="https://www.cred.unibe.ch/unibe/portal/fak_wiso/wiso_kzen/cred/content/e54587/e57624/e57629/e1261154/Spatial_Consumption_Frictions_ger.pdf" download>Download</a> ]</small>
 <small>with <a href="https://maxvehrlich.ch/">Maximilian von Ehrlich</a> and <a href="https://sites.google.com/site/tobiasseideluni/home-1">Tobias Seidel</a></small>
 <div style="height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
@@ -31,9 +43,6 @@ Cross-border shopping allows purchasing comparable goods at lower prices abroad.
 </div>
 
 ## Work in Progress
-
-### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits <small>[ <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a> ]</small>
-<small>with <a href="https://martinapons.github.io/">Martina Pons</a></small>
 
 ### The Dietary Response to Parental Health Shocks
 
