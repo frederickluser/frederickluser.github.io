@@ -22,7 +22,7 @@ Inadequate diets harm individual health, generate substantial healthcare costs, 
 We provide novel evidence of the strong intergenerational transmission of dietary choices from parents to children by exploiting unique grocery transaction records matched with administrative data. 
 We find that children with parents spending one percentage point more on fruits and vegetables also spend 0.23 percentage points more on fresh produce.
 Our estimates exceed comparable measures for income transmission, indicating that dietary habits acquired during childhood are particularly persistent.
-Counterfactual analyses show that only 12$\%$ of the intergenerational persistence in diet can be explained by the transmission of income and education. 
+Counterfactual analyses show that only 12% of the intergenerational persistence in diet can be explained by the transmission of income and education. 
 Finally, we find substantial heterogeneities in diet transmission and introduce a habit formation model to discuss potential mechanisms.
 </small><br><br/>
 </div>
