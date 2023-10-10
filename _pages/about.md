@@ -32,7 +32,7 @@ Cross-border shopping allows purchasing comparable goods at lower prices abroad.
 
 ## Work in Progress
 
-### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits <small></small>
+### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits <small>[ <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a> ]</small>
 <small>with <a href="https://martinapons.github.io/">Martina Pons</a></small>
 
 ### The Dietary Response to Parental Health Shocks
