@@ -38,9 +38,14 @@ Cross-border shopping allows purchasing comparable goods at lower prices abroad.
 </div>
 
 
-## Work in Progress
 
-### The Dietary Response to Parental Health Shocks
+## Other Writing
+
+### Arbeit und Kapital in Zeiten der Wissensgesellschaft (in German) <small>[ <a href="https://reatch.ch/publikationen/arbeit-und-kapital-in-zeiten-der-wissensgesellschaft" download>Link</a> ]</small>
+<small>with <a href="https://www.guidobaldi.ch/">Guido Baldi</a>
+
+### Firmenersparnisse und der Arbeitsanteil am Einkommen (in German) <small>[ <a href="https://www.econstor.eu/handle/10419/193691" download>Link</a> ]</small>
+<small>with <a href="https://www.guidobaldi.ch/">Guido Baldi</a>
 
 [//]: This java script is the button to show abstract
 <script>
