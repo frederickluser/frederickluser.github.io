@@ -2,6 +2,6 @@ main:
  - title: "Codes"
    url: /codes/
 
-# main:
-# - title: "CV"
-#   url: /cv/
+ main:
+ - title: "Teaching"
+   url: /teaching/
