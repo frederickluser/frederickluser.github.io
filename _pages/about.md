@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for visiting! I’m a fourth year PhD Candidate in Economics at the <a href="https://www.vwi.unibe.ch/index_eng.html">Department of Economics</a> and the <a href="https://www.cred.unibe.ch/index_eng.html">Center for Regional Economic Development (CRED)</a>  at the University of Bern. I love nature, cooking, and inspiring books.
+Thank you for visiting! I’m a fourth year PhD Candidate in Economics at the <a href="https://www.vwi.unibe.ch/index_eng.html">Department of Economics</a> and the <a href="https://www.cred.unibe.ch/index_eng.html">Center for Regional Economic Development (CRED)</a>  at the University of Bern. During the academic year 2023/24, I was vising the Wharton School at UPenn.
 I am passionate about urban and health economics and try to understand households' consumption and nutritional choices. <a href="https://frederickluser.github.io/files/cv_frederic_kluser.pdf" download>You can download my CV here</a>.
 
 
 ## Working Papers
 
-### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits <small>[ <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a> ]</small>
-<small>with <a href="https://martinapons.github.io/">Martina Pons</a></small>
-<div style="height:  auto; width: auto;text-align: justify; line-height: 1.2" ><small>
+### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits <small></small>
+
+<small>with <a href="https://martinapons.github.io/">Martina Pons</a> [ <a href="#/" onclick="visib('nutrition')">Abstract</a> | <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a> ]</small>
+
+<div id="nutrition" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 Inadequate diets harm individual health, generate substantial healthcare costs, and reduce labor market income. Yet, the determinants of unhealthy eating remain poorly understood. This paper provides novel evidence on the intergenerational transmission of dietary choices from parents to children by exploiting unique grocery transaction records matched with administrative data. We document a strong intergenerational diet persistence that exceeds income transmission across all measures we consider. This suggests that parents have a particularly strong impact on their children’s diet. At the same time, substantial heterogeneities in the persistence of diet indicate that the socioeconomic background and location of children may be crucial to foster beneficial eating habits and to break unhealthy ones. We discuss potential mechanisms and show in a counterfactual analysis that only 12% of the intergenerational persistence in diet can be explained by the transmission of income and education. In line with these results, we introduce a habit formation model and argue that the formation of dietary habits during childhood and their slow alteration are key drivers of our findings.
 </small><br><br/>
 </div>
