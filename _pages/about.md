@@ -44,11 +44,11 @@ I am passionate about urban and health economics and try to understand household
 
 ## Other Writing
 
-### Arbeit und Kapital in Zeiten der Wissensgesellschaft (in German) <small>[ <a href="https://reatch.ch/publikationen/arbeit-und-kapital-in-zeiten-der-wissensgesellschaft" download>Link</a> ]</small>
-<small>with <a href="https://www.guidobaldi.ch/">Guido Baldi</a>
+### Arbeit und Kapital in Zeiten der Wissensgesellschaft (in German)
+<small>[ with <a href="https://www.guidobaldi.ch/">Guido Baldi</a> | <a href="https://reatch.ch/publikationen/arbeit-und-kapital-in-zeiten-der-wissensgesellschaft" download>Link</a> ]
 
-### Firmenersparnisse und der Arbeitsanteil am Einkommen (in German) <small>[ <a href="https://www.econstor.eu/handle/10419/193691" download>Link</a> ]</small>
-<small>with <a href="https://www.guidobaldi.ch/">Guido Baldi</a>
+### Firmenersparnisse und der Arbeitsanteil am Einkommen (in German)
+<small>[ with <a href="https://www.guidobaldi.ch/">Guido Baldi</a> | <a href="https://www.econstor.eu/handle/10419/193691" download>Link</a> ]
 
 [//]: This java script is the button to show abstract
 <script>
