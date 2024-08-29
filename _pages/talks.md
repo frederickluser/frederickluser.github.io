@@ -5,10 +5,9 @@ author_profile: true
 ---
 
 ## 2024
-
 * Meeting of the European Economic Association (Rotterdam)
 * European Health Economics Association Conference (Vienna)
-* Annual Conference of the International Association for Applied Econometrics (Thessaloniki)
+* Conference of the International Association for Applied Econometrics (Thessaloniki)
 * European Meeting of the Urban Economics Association (Copenhagen)
 * International Panel Data Conference (Orléans)
 * Ph.D. Seminar (University of Bern)
