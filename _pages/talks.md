@@ -7,7 +7,7 @@ author_profile: true
 ## 2024
 
 * Meeting of the European Economic Association (Rotterdam)
-* Metting of the European Health Economics Association Conference (Vienna)
+* European Health Economics Association Conference (Vienna)
 * Annual Conference of the International Association for Applied Econometrics (Thessaloniki)
 * European Meeting of the Urban Economics Association (Copenhagen)
 * International Panel Data Conference (Orléans)
@@ -16,7 +16,7 @@ author_profile: true
 ## 2023
 * Urban and Real Estate Seminar (Wharton, UPenn) 
 * Applied Economics Ph.D. Seminar (Wharton, UPenn)
-* Data Science Day (UBern)
+* Data Science Day (Bern)
 * Young Swiss Economists Meeting (Zurich) 
 * Ph.D. Seminar (University of Bern)
 
