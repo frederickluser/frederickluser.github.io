@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for visiting! I’m a last-year Ph.D. Candidate in Economics at the <a href="https://www.vwi.unibe.ch/index_eng.html">Department of Economics</a> and the <a href="https://www.cred.unibe.ch/index_eng.html">Center for Regional Economic Development (CRED)</a>  at the University of Bern. During the academic year 2023/24, I was visiting the Wharton School at UPenn.
-I am passionate about urban and health economics and try to understand households' consumption and nutritional choices. <a href="https://frederickluser.github.io/files/cv_frederic_kluser.pdf" download>You can download my CV here</a>.
+Thank you for visiting! I'm an economist currently finishing my Ph.D. at the <a href="https://www.vwi.unibe.ch/index_eng.html">Department of Economics at the University of Bern</a>. From September 2023 to March 2024, I was a visiting researcher at the <a href="https://real-estate.wharton.upenn.edu/">Wharton School at UPenn.</a>
+
+I am passionate about spatial and health economics and try to understand households' consumption and dietary choices. You can download my CV <a href="https://frederickluser.github.io/files/cv_frederic_kluser.pdf" download>here</a>.
 
 
 ## Working Papers
