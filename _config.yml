@@ -80,7 +80,7 @@ author:
   location         : 
   employer         : "University of Bern"
   pubmed           : 
-  googlescholar    : citations?user=mhFEPrUAAAAJ&hl=en&oi=ao
+  googlescholar    : "https://scholar.google.ch/citations?user=mhFEPrUAAAAJ&hl=en&oi=ao"
   email            : "frederic.kluser@unibe.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/Dino-Collalti"
   uri              :
@@ -96,7 +96,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "fr%C3%A9d%C3%A9ric-kluser-68947a194/"
+  linkedin         : frederickluser
   orcid            : 
   pinterest        :
   soundcloud       :
