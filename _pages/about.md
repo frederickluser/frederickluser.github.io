@@ -47,7 +47,7 @@ I am passionate about spatial and health economics and try to understand househo
 ## Other Writing
 
 ### Ph.D. Dissertation
-<small>[ <a href="#/" onclick="visib('thesis')">Abstract</a> | <a href="https://boristheses.unibe.ch/5469/" download>Download</a> ] 
+<small>[ <a href="#/" onclick="visib('thesis')">Abstract</a> | <a href="https://boristheses.unibe.ch/5469/" download>Link</a> ] 
 <div id="thesis" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 This thesis includes three papers investigating different dimensions of consumer behavior in Switzerland within the fields of urban and health economics: eating patterns within families across generations, consumer mobility and grocery market access within cities, and shopping trips across national borders. Chapter One, titled The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits, studies the intergenerational persistence of healthy eating patterns. Chapter Two, titled Cross-Border Shopping: Evidence from Household Transaction Records, analyzes the consumers’ response to the COVID-19-induced national border closure in Switzerland. Chapter Three, titled Spatial Frictions in Retail Consumption, exploits supermarket openings to estimate distance decay functions and incorporates them into a simple framework of spatial shopping. Addressing these topics contributes to (i) the design of effective public health interventions and (ii) land-use restrictions and urban planning that account for the complexities of spatial consumer behavior.
 </small><br><br/>
