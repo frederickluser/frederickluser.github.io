@@ -44,6 +44,9 @@ I am passionate about spatial and health economics and try to understand househo
 ### Does new housing supply benefit the poor? Evidence from moving chains
 <small> with Lukas Hauck</small>
 
+### Determinants of Online Shopping Behavior
+<small> with Maximilian von Ehrlich</small>
+
 ## Other Writing
 
 ### Food for Thought - Consumer Mobility and Nutritional Choices (Thesis)
