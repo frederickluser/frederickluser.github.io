@@ -45,7 +45,7 @@ I am passionate about spatial and health economics and try to understand househo
 <small> with Lukas Hauck</small>
 
 ### Determinants of Online Shopping Behavior
-<small> with Maximilian von Ehrlich</small>
+<small> with <a href="https://maxvehrlich.ch/">Maximilian von Ehrlich</a></small>
 
 ## Other Writing
 
