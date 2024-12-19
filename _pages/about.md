@@ -41,11 +41,19 @@ I am passionate about spatial and health economics and try to understand househo
 </small><br><br/>
 </div>
 
+### Determinants of Online Shopping Behavior
+<small>[ <a href="#/" onclick="visib('online')">Abstract</a> ] with <a href="https://maxvehrlich.ch/">Maximilian von Ehrlich</a> </small>
+
+<div id="online" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
+This paper investigates two areas of e-commerce adoption. First, we study how the COVID-19 pandemic and related policy measures shaped online grocery shopping adoption in Switzerland. Second, we analyze the role of close family ties in accelerating e-commerce diffusion.
+Using a comprehensive dataset of household-level transactions at the nation’s largest retailer matched to administrative registers, we document a substantial increase in online expenditures. This shift is heterogeneous: younger and larger households, as well as those with limited local store access, are particularly responsive. Moreover, using a stringency index, we find that stricter mitigation policies intensify online usage.
+We also highlight strong intergenerational peer effects: within multi-generational families, when one generation adopts online shopping, the other is one to two times more likely to adopt as well.
+Our findings highlight both the policy sensitivity of digital market penetration and the social dynamics that accelerate technology diffusion in retail.
+</small><br><br/>
+</div>
+
 ### Does new housing supply benefit the poor? Evidence from moving chains
 <small> with Lukas Hauck</small>
-
-### Determinants of Online Shopping Behavior
-<small> with <a href="https://maxvehrlich.ch/">Maximilian von Ehrlich</a></small>
 
 ## Other Writing
 
