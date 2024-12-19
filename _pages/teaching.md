@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 ### University of Bern
-- Seminar: Topics in Public Economics I (2023)
+- Seminar: Topics in Public Economics II (2024)
+- Seminar: Topics in Public Economics I (2024)
 - Public Economics (2021, 2022)
 - Tax Policy (2020, 2021)
 - Applied Econometrics with R (2019)
