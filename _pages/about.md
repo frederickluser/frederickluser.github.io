@@ -53,7 +53,7 @@ Our findings highlight both the policy sensitivity of digital market penetration
 </div>
 
 ### Does new housing supply benefit the poor? Evidence from moving chains
-<small> with Lukas Hauck</small>
+<small> with <a href="https://www.linkedin.com/in/lukas-hauck-990091261/?originalSubdomain=ch">Lukas Hauck</a></small>
 
 ## Other Writing
 
