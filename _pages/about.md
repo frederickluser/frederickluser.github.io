@@ -14,18 +14,20 @@ I am passionate about public and health economics and try to understand househol
 
 <b>I am on the Job Market 2024/2025.</b>
 
-## Working Papers
+## Job Market Paper
 
 ### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits <small></small>
-<small>[ <a href="#/" onclick="visib('nutrition')">Abstract</a> | <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a> ] with <a href="https://martinapons.github.io/">Martina Pons</a> (Submitted)</small> 
+<small>[ <a href="#/" onclick="visib('nutrition')">Abstract</a> | <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a> ] with <a href="https://martinapons.github.io/">Martina Pons</a> (Revise & Resubmit, <i>The Review of Economics and Statistics</i> )</small> 
 
 <div id="nutrition" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
   Inadequate diets harm individual health, generate substantial healthcare costs, and reduce labor market income. Yet, the determinants of unhealthy eating remain poorly understood. This paper provides novel evidence on the intergenerational transmission of dietary choices from parents to children by exploiting unique grocery transaction records matched with administrative data. We document a strong intergenerational diet persistence that exceeds income transmission across all measures we consider. This suggests that parents have a particularly strong impact on their children’s diet. At the same time, substantial heterogeneities in the persistence of diet indicate that the socioeconomic background and location of children may be crucial to foster beneficial eating habits and to break unhealthy ones. We discuss potential mechanisms and show in a counterfactual analysis that only 12% of the intergenerational persistence in diet can be explained by the transmission of income and education. In line with these results, we introduce a habit formation model and argue that the formation of dietary habits during childhood and their slow alteration are key drivers of our findings.
 </small><br><br/>
 </div>
 
+## Working Papers
+
 ### Cross-Border Shopping: Evidence from Household Transaction Records 
-<small>[ <a href="#/" onclick="visib('crossborder')">Abstract</a> | <a href="https://frederickluser.github.io/files/Cross_Border_Shopping.pdf" download>Download</a> ] (Submitted)</small> 
+<small>[ <a href="#/" onclick="visib('crossborder')">Abstract</a> | <a href="https://frederickluser.github.io/files/Cross_Border_Shopping.pdf" download>Download</a> ] (Reject & Resubmit, <i>Regional Science and Urban Economics</i>)</small> 
 
 <div id="crossborder" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
   Cross-border shopping allows purchasing comparable goods at lower prices abroad. At the same time, it can reduce domestic consumption, sales, or tax collection. During the Covid-19 pandemic, many countries restricted cross-border movements to mitigate the virus’s spread, thereby also prohibiting cross-border shopping. I exploit the random timing of the Swiss border closure using data on 600 million customer-linked transactions from the largest Swiss retailer to identify patterns in cross-border shopping. I find that grocery expenditures temporarily increased by 10-15% in border regions. Households drive up to 70 minutes to a location across the border, but the distance decay function is non-linear and marginal costs of traveling become negligible after 40 minutes. Cross-border shopping provides an opportunity for consumers from high-price countries to obtain comparable goods at lower prices in foreign markets. At the same time, it can reduce domestic consumption, sales, or tax collection. During the COVID-19 pandemic, many countries restricted cross-border movements to mitigate the virus’s spread, thereby also prohibiting cross-border shopping. This paper exploits the random timing of the Swiss border closure to study heterogeneities in the willingness to travel for lower prices. To this end, I link unique consumer-linked transaction data on one million customers to administrative records. I find that grocery expenditures temporarily increase by 10.5% in border regions, and this effect declines linearly with distance for up to 40 minutes before flattening out. My results show that the effect increases in household size, and decreases in age, income, education, and the cross-border locations’ price index. Furthermore, I find novel evidence that citizens working close to the border combine their commuting trips with cross-border shopping, indicating strategic trip chaining.
