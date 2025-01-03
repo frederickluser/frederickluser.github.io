@@ -60,8 +60,6 @@ market penetration and the social dynamics that accelerate technology diffusion 
 </small><br><br/>
 </div>
 
-## Work in Progress
-
 ### Does new housing supply benefit the poor? Evidence from moving chains
 <small> with <a href="https://www.linkedin.com/in/lukas-hauck-990091261/?originalSubdomain=ch">Lukas Hauck</a></small>
 
