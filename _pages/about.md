@@ -17,9 +17,9 @@ I am passionate about public and health economics and try to understand househol
 ## Job Market Paper
 
 ### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits <small></small>
-<small>[ <a href="#/" onclick="visib('nutrition')">Abstract</a> | <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a> ] with <a href="https://martinapons.github.io/">Martina Pons</a> (Revise & Resubmit, <i>The Review of Economics and Statistics</i>)</small> 
+<small>[ <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a> ] with <a href="https://martinapons.github.io/">Martina Pons</a> (Revise & Resubmit, <i>The Review of Economics and Statistics</i>)</small> 
 
-<div id="nutrition" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
+<div id="nutrition" style="height: auto; width: auto; text-align: justify; line-height: 1.2" ><small>
 Inadequate diets harm individual health, generate substantial healthcare costs, and reduce labor market income. Yet, the determinants of unhealthy eating remain poorly understood. 
 This paper provides novel evidence on the intergenerational transmission of dietary choices from parents to children by exploiting unique grocery transaction records matched with 
 administrative data. We document a strong intergenerational persistence of diet that exceeds income transmission across all measures we consider. At the same time, substantial heterogeneities 
