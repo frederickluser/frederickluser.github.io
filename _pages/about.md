@@ -8,14 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for visiting! I'm an applied economist currently finishing my Ph.D. at the <a href="https://www.vwi.unibe.ch/index_eng.html">Department of Economics at the University of Bern</a>. From September 2023 to March 2024, I was a visiting researcher at the <a href="https://real-estate.wharton.upenn.edu/">Wharton School at UPenn.</a>
+Thank you for visiting! I'm an applied economist currently working at the <a href="https://www.vwi.unibe.ch/index_eng.html">Department of Economics at the University of Bern</a>. From September 2023 to March 2024, I was a visiting researcher at the <a href="https://real-estate.wharton.upenn.edu/">Wharton School at UPenn.</a>
 
-I am passionate about public and health economics and try to understand households' consumption and dietary choices. You can download my <a href="https://frederickluser.github.io/files/resume_frederic_kluser.pdf" download>Resume</a> and <a href="https://frederickluser.github.io/files/cv_frederic_kluser.pdf" download>academic CV</a> here.
+I am passionate about public and health economics and try to understand households' consumption and dietary choices. You can download my <a href="https://frederickluser.github.io/files/resume_frederic_kluser.pdf" download>Resume</a> here.
 
-<b>I am on the Job Market 2024/2025.</b>
-
-## Job Market Paper
-
+## Working Papers
 ### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits <small></small>
 <small>[ <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a> ] with <a href="https://martinapons.github.io/">Martina Pons</a> (Revise & Resubmit, <i>The Review of Economics and Statistics</i>)</small> 
 
@@ -28,8 +25,6 @@ potential mechanisms and show in a counterfactual analysis that only 10% of the 
 line with these results, we introduce a habit formation model and argue that the formation of dietary habits during childhood and their slow alteration are key drivers of our findings.
 </small><br><br/>
 </div>
-
-## Working Papers
 
 ### Cross-Border Shopping: Evidence from Household Transaction Records 
 <small>[ <a href="#/" onclick="visib('crossborder')">Abstract</a> | <a href="https://frederickluser.github.io/files/Cross_Border_Shopping.pdf" download>Download</a> ] (Reject & Resubmit, <i>Regional Science and Urban Economics</i>)</small> 
