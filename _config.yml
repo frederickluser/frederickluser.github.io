@@ -76,13 +76,13 @@ analytics:
 author:
   name             : "Frédéric Kluser"
   avatar           : "IMG_5630_small.jpg"
-  bio              : "PhD Candidate in Economics"
+  bio              : "Ph.D. in Economics"
   location         : 
-  employer         : "University of Bern"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.ch/citations?user=mhFEPrUAAAAJ&hl=en&oi=ao"
   email            : "frederic.kluser@unibe.ch"
-  researchgate     :  # example: "https://www.researchgate.net/profile/Dino-Collalti"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "FredericKluser" 
+  twitter          : 
   vine             :
   weibo            :
   xing             :
