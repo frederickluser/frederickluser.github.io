@@ -29,7 +29,7 @@ line with these results, we introduce a habit formation model and argue that the
 </div>
 
 ### Cross-Border Shopping: Evidence from Household Transaction Records 
-<small>[ <a href="#/" onclick="visib('crossborder')">Abstract</a> | <a href="https://frederickluser.github.io/files/Cross_Border_Shopping.pdf" download>Download</a> ] (Reject & Resubmit, <i>Regional Science and Urban Economics</i>)</small> 
+<small>[ <a href="#/" onclick="visib('crossborder')">Abstract</a> | <a href="https://frederickluser.github.io/files/Cross_Border_Shopping.pdf" download>Download</a> ] </small> 
 
 <div id="crossborder" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 Cross-border shopping allows consumers from high-price countries to access a greater variety of goods at lower prices in nearby foreign markets. However, this activity can reduce domestic tax revenues, lower sales, and shift consumption away from local retailers. Leveraging the natural experiment of Switzerland’s COVID-19-induced border closure, I explore the unequal socioeconomic benefits of cross-border shopping. Using rich transaction data for 750,000 households linked with administrative records, I find an additional temporary 10.9% increase in domestic grocery expenditures in border regions. Furthermore, the benefits of cross-border shopping are heterogeneous, with large households and those with lower incomes being particularly likely to shop abroad. I use these findings to calculate an annual reduction of domestic grocery sales of 1.5 billion Swiss francs due to cross-border shopping, equivalent to 3.8% of total sales. These findings underscore the need for nuanced policy approaches that address the spatial frictions and distributional impacts of cross-border shopping.
@@ -45,7 +45,7 @@ This paper analyzes spatial consumption frictions by estimating the causal effec
 </div>
 
 ### Determinants of Online Shopping Behavior
-<small>[ <a href="#/" onclick="visib('online')">Abstract</a> | <a href="https://frederickluser.github.io/files/Online_Shopping.pdf" download>Download</a> ] with <a href="https://maxvehrlich.ch/">Maximilian von Ehrlich</a> </small>
+<small>[ <a href="#/" onclick="visib('online')">Abstract</a> | <a href="https://frederickluser.github.io/files/Online_Shopping.pdf" download>Download</a> ] with <a href="https://maxvehrlich.ch/">Maximilian von Ehrlich</a> (Revise & Resubmit, <i>Swiss Journal of Economics and</i>)</small>
 
 <div id="online" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 This paper investigates two areas of e-commerce adoption. First, we study how the COVID-19 pandemic and related policy measures shaped online grocery shopping adoption in Switzerland. 
