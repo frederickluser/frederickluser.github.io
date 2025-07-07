@@ -45,7 +45,7 @@ This paper analyzes spatial consumption frictions by estimating the causal effec
 </div>
 
 ### Determinants of Online Shopping Behavior
-<small>[ <a href="#/" onclick="visib('online')">Abstract</a> | <a href="https://frederickluser.github.io/files/Online_Shopping.pdf" download>Download</a> ] with <a href="https://maxvehrlich.ch/">Maximilian von Ehrlich</a> (Revise & Resubmit, <i>Swiss Journal of Economics and</i>)</small>
+<small>[ <a href="#/" onclick="visib('online')">Abstract</a> | <a href="https://frederickluser.github.io/files/Online_Shopping.pdf" download>Download</a> ] with <a href="https://maxvehrlich.ch/">Maximilian von Ehrlich</a> (Revise & Resubmit, <i>Swiss Journal of Economics and Statistics</i>)</small>
 
 <div id="online" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 This paper investigates two areas of e-commerce adoption. First, we study how the COVID-19 pandemic and related policy measures shaped online grocery shopping adoption in Switzerland. 
