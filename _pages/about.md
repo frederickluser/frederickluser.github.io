@@ -29,10 +29,17 @@ line with these results, we introduce a habit formation model and argue that the
 </div>
 
 ### Cross-Border Shopping: Evidence from Household Transaction Records 
-<small>[ <a href="#/" onclick="visib('crossborder')">Abstract</a> | <a href="https://frederickluser.github.io/files/Cross_Border_Shopping.pdf" download>Download</a> ] </small> 
-
+<small>[ <a href="#/" onclick="visib('crossborder')">Abstract</a> | <a href="https://frederickluser.github.io/files/Cross_Border_Shopping.pdf" download>Download</a> ] (Revise & Resubmit, <i>Swiss Journal of Economics and Statistics</i>)</small> 
 <div id="crossborder" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 Cross-border shopping allows consumers from high-price countries to access a greater variety of goods at lower prices in nearby foreign markets. However, this activity can reduce domestic tax revenues, lower sales, and shift consumption away from local retailers. Leveraging the natural experiment of Switzerland’s COVID-19-induced border closure, I explore the unequal socioeconomic benefits of cross-border shopping. Using rich transaction data for 750,000 households linked with administrative records, I find an additional temporary 10.9% increase in domestic grocery expenditures in border regions. Furthermore, the benefits of cross-border shopping are heterogeneous, with large households and those with lower incomes being particularly likely to shop abroad. I use these findings to calculate an annual reduction of domestic grocery sales of 1.5 billion Swiss francs due to cross-border shopping, equivalent to 3.8% of total sales. These findings underscore the need for nuanced policy approaches that address the spatial frictions and distributional impacts of cross-border shopping.
+</small><br><br/>
+</div>
+
+### Determinants of Online Shopping Behavior
+<small>[ <a href="#/" onclick="visib('online')">Abstract</a> | <a href="https://frederickluser.github.io/files/Online_Shopping.pdf" download>Download</a> ] with <a href="https://maxvehrlich.ch/">Maximilian von Ehrlich</a> (Revise & Resubmit, <i>Swiss Journal of Economics and Statistics</i>)</small>
+
+<div id="online" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
+This paper investigates two areas of e-commerce adoption. First, we study how the COVID-19 pandemic and related policy measures shaped online grocery shopping adoption in Switzerland. Second, we analyze the role of close family ties in accelerating e-commerce diffusion. Using a comprehensive dataset of household-level transactions at the nation's largest retailer matched to administrative registers, we document a substantial increase in online expenditures. This shift is heterogeneous: younger and larger households, as well as those with limited local store access, are particularly responsive. Moreover, using a stringency index, we find that stricter mitigation policies intensify online usage. We also highlight strong intergenerational peer effects: within multi-generational families, when one generation adopts online shopping, the other is one to two times more likely to adopt as well. Our findings highlight both the policy sensitivity of digital market penetration and the social dynamics that accelerate technology diffusion in retail.
 </small><br><br/>
 </div>
 
@@ -41,19 +48,6 @@ Cross-border shopping allows consumers from high-price countries to access a gre
 
 <div id="consumption" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 This paper analyzes spatial consumption frictions by estimating the causal effect of store openings on individual shopping behavior. To this end, we combine unique household-store-linked transaction data with administrative data on income and other socio-demographics. Our findings reveal that spatial frictions significantly influence shopping behavior, with the distance elasticity of expenditures and number of visits being approximately 0.15. Our estimates suggests that consumption areas extend to about 10-20 minutes of travel time, depending on household type. Traditional gravity estimates are shown to be considerably biased due to the endogenous nature of store locations. By combining distance elasticities with a simple model of shopping behavior, we derive store-specific attraction parameters and compute a measure of local grocery market access. Market access varies significantly across different locations, and consistent with spatial equilibrium theory, this variation is reflected in local rents. Consumption frictions are more pronounced for older and smaller households and vary with income, primarily in non-urban areas. Overall, spatial variations in market access are more significant than spatial dispersion in income. Combined with the positive correlation between income and market access, this suggests an important role for real income disparities.
-</small><br><br/>
-</div>
-
-### Determinants of Online Shopping Behavior
-<small>[ <a href="#/" onclick="visib('online')">Abstract</a> | <a href="https://frederickluser.github.io/files/Online_Shopping.pdf" download>Download</a> ] with <a href="https://maxvehrlich.ch/">Maximilian von Ehrlich</a> (Revise & Resubmit, <i>Swiss Journal of Economics and Statistics</i>)</small>
-
-<div id="online" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
-This paper investigates two areas of e-commerce adoption. First, we study how the COVID-19 pandemic and related policy measures shaped online grocery shopping adoption in Switzerland. 
-Second, we analyze the role of close family ties in accelerating e-commerce diffusion. Using a comprehensive dataset of household-level transactions at the nation's largest retailer matched to 
-administrative registers, we document a substantial increase in online expenditures. This shift is heterogeneous: younger and larger households, as well as those with limited local store access, 
-are particularly responsive. Moreover, using a stringency index, we find that stricter mitigation policies intensify online usage. We also highlight strong intergenerational peer effects: within 
-multi-generational families, when one generation adopts online shopping, the other is one to two times more likely to adopt as well. Our findings highlight both the policy sensitivity of digital 
-market penetration and the social dynamics that accelerate technology diffusion in retail.
 </small><br><br/>
 </div>
 
