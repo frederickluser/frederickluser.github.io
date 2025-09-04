@@ -14,6 +14,14 @@ From September 2023 to March 2024, I had the privilege of being a visiting resea
 
 You can download my <a href="https://frederickluser.github.io/files/resume_frederic_kluser.pdf" download>Resume</a> here.
 
+## Publications
+### Cross-Border Shopping: Evidence from Household Transaction Records (2025)
+<small>[ <a href="#/" onclick="visib('crossborder')">Abstract</a> | <a href="https://doi.org/10.1186/s41937-025-00141-w" download>Link</a> ] (<i>Swiss Journal of Economics and Statistics</i> 161, 9)</small> 
+<div id="crossborder" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
+Cross-border shopping allows consumers from high-price countries to access a greater variety of goods at lower prices in nearby foreign markets. However, this activity can reduce domestic tax revenues, lower sales, and shift consumption away from local retailers. Leveraging the natural experiment of Switzerland’s COVID-19-induced border closure, I explore the unequal socioeconomic benefits of cross-border shopping. Using rich transaction data for 750,000 households linked with administrative records, I find an additional temporary 10.9% increase in domestic grocery expenditures in border regions. Furthermore, the benefits of cross-border shopping are heterogeneous, with large households and those with lower incomes being particularly likely to shop abroad. I use these findings to calculate an annual reduction of domestic grocery sales of 1.5 billion Swiss francs due to cross-border shopping, equivalent to 3.8% of total sales. These findings underscore the need for nuanced policy approaches that address the spatial frictions and distributional impacts of cross-border shopping.
+</small><br><br/>
+</div>
+
 ## Working Papers
 ### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits <small></small>
 <small>[ <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a> ] with <a href="https://martinapons.github.io/">Martina Pons</a> (Revise & Resubmit, <i>The Review of Economics and Statistics</i>)</small> 
@@ -25,13 +33,6 @@ administrative data. We document a strong intergenerational persistence of diet 
 in the persistence of diet indicate that the socioeconomic background and location of children may be crucial to fostering beneficial eating habits and breaking unhealthy ones. We discuss 
 potential mechanisms and show in a counterfactual analysis that only 10% of the intergenerational persistence in diet can be explained by the transmission of income and education. In 
 line with these results, we introduce a habit formation model and argue that the formation of dietary habits during childhood and their slow alteration are key drivers of our findings.
-</small><br><br/>
-</div>
-
-### Cross-Border Shopping: Evidence from Household Transaction Records 
-<small>[ <a href="#/" onclick="visib('crossborder')">Abstract</a> | <a href="https://frederickluser.github.io/files/Cross_Border_Shopping.pdf" download>Download</a> ] (Revise & Resubmit, <i>Swiss Journal of Economics and Statistics</i>)</small> 
-<div id="crossborder" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
-Cross-border shopping allows consumers from high-price countries to access a greater variety of goods at lower prices in nearby foreign markets. However, this activity can reduce domestic tax revenues, lower sales, and shift consumption away from local retailers. Leveraging the natural experiment of Switzerland’s COVID-19-induced border closure, I explore the unequal socioeconomic benefits of cross-border shopping. Using rich transaction data for 750,000 households linked with administrative records, I find an additional temporary 10.9% increase in domestic grocery expenditures in border regions. Furthermore, the benefits of cross-border shopping are heterogeneous, with large households and those with lower incomes being particularly likely to shop abroad. I use these findings to calculate an annual reduction of domestic grocery sales of 1.5 billion Swiss francs due to cross-border shopping, equivalent to 3.8% of total sales. These findings underscore the need for nuanced policy approaches that address the spatial frictions and distributional impacts of cross-border shopping.
 </small><br><br/>
 </div>
 
