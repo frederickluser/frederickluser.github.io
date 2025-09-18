@@ -4,6 +4,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+## 2025
+* Workshop of the Swiss Network on Public Economics (Zurich)
+
 ## 2024
 * Meeting of the European Economic Association (Rotterdam)
 * European Health Economics Association Conference (Vienna)
