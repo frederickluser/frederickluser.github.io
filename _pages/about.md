@@ -24,7 +24,7 @@ Cross-border shopping expands product variety and lowers prices for consumers in
 
 ## Working Papers
 ### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits <small></small>
-<small>[ <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a> ] with <a href="https://martinapons.github.io/">Martina Pons</a> (Revise & Resubmit, <i>The Review of Economics and Statistics</i>)</small> 
+<small>[ <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a> ] with <a href="https://martinapons.github.io/">Martina Pons</a> (Revise & Resubmit (resubmitted), <i>The Review of Economics and Statistics</i>)</small> 
 
 <div style="height: auto; width: auto; text-align: justify; line-height: 1.2" ><small>
 Inadequate diets harm individual health, generate substantial healthcare costs, and reduce labor market income. Yet, the determinants of unhealthy eating remain poorly understood. 
