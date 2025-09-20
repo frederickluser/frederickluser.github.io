@@ -35,7 +35,7 @@ line with these results, we introduce a habit formation model and argue that the
 </small><br><br/>
 </div>
 
-### Determinants of Online Shopping Behavior
+### Who Shops Online? The Role of Policy, Household Characteristics, and Family Networks
 <small>[ <a href="#/" onclick="visib('online')">Abstract</a> | <a href="https://frederickluser.github.io/files/Online_Shopping.pdf" download>Download</a> ] with <a href="https://maxvehrlich.ch/">Maximilian von Ehrlich</a> (Revise & Resubmit (resubmitted), <i>Swiss Journal of Economics and Statistics</i>)</small>
 
 <div id="online" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
