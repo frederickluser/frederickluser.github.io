@@ -37,15 +37,26 @@ line with these results, we introduce a habit formation model and argue that the
 </div>
 
 ### Determinants of Online Shopping Behavior
-<small>[ <a href="#/" onclick="visib('online')">Abstract</a> | <a href="https://frederickluser.github.io/files/Online_Shopping.pdf" download>Download</a> ] with <a href="https://maxvehrlich.ch/">Maximilian von Ehrlich</a> (Revise & Resubmit, <i>Swiss Journal of Economics and Statistics</i>)</small>
+<small>[ <a href="#/" onclick="visib('online')">Abstract</a> | <a href="https://frederickluser.github.io/files/Online_Shopping.pdf" download>Download</a> ] with <a href="https://maxvehrlich.ch/">Maximilian von Ehrlich</a> (Revise & Resubmit (resubmitted), <i>Swiss Journal of Economics and Statistics</i>)</small>
 
 <div id="online" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
-This paper investigates two areas of e-commerce adoption. First, we study how the COVID-19 pandemic and related policy measures shaped online grocery shopping adoption in Switzerland. Second, we analyze the role of close family ties in accelerating e-commerce diffusion. Using a comprehensive dataset of household-level transactions at the nation's largest retailer matched to administrative registers, we document a substantial increase in online expenditures. This shift is heterogeneous: younger and larger households, as well as those with limited local store access, are particularly responsive. Moreover, using a stringency index, we find that stricter mitigation policies intensify online usage. We also highlight strong intergenerational peer effects: within multi-generational families, when one generation adopts online shopping, the other is one to two times more likely to adopt as well. Our findings highlight both the policy sensitivity of digital market penetration and the social dynamics that accelerate technology diffusion in retail.
+This paper examines the unintended effects of public policy measures and social dynamics
+on e-commerce adoption, using a comprehensive dataset of household-level transactions at
+Switzerland’s largest retailer matched to administrative registers. First, we study how the
+COVID-19 pandemic and temporary policy measures impacted the adoption of online grocery
+shopping in Switzerland and we document a substantial increase in online expenditures. This
+shift is heterogeneous: younger, larger, and richer households, as well as those with limited
+local store access, are particularly responsive. Moreover, we find that stricter mitigation
+policies intensify online usage. Second, we analyze the role of social networks in accelerating
+e-commerce diffusion. We highlight strong peer effects: within multi-generational families
+and among neighbors, the adoption of online shopping by one household significantly raises
+the likelihood of adoption by others. These findings underscore the impact of policy measures
+and the importance of social networks in shaping digital consumption behavior.
 </small><br><br/>
 </div>
 
 ### Spatial Frictions in Retail Consumption
-<small>[ <a href="#/" onclick="visib('consumption')">Abstract</a> | <a href="https://frederickluser.github.io/files/Spatial_Consumption_Frictions.pdf" download>Download</a> ] with <a href="https://maxvehrlich.ch/">Maximilian von Ehrlich</a> and <a href="https://sites.google.com/site/tobiasseideluni/home-1">Tobias Seidel</a> </small>
+<small>[ <a href="#/" onclick="visib('consumption')">Abstract</a> | <a href="https://frederickluser.github.io/files/Spatial_Consumption_Frictions.pdf" download>Download</a> ] with <a href="https://maxvehrlich.ch/">Maximilian von Ehrlich</a> and <a href="https://sites.google.com/site/tobiasseideluni/home-1">Tobias Seidel</a> (<i>Working Paper</i>)</small>
 
 <div id="consumption" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 This paper analyzes spatial consumption frictions by estimating the causal effect of store openings on individual shopping behavior. To this end, we combine unique household-store-linked transaction data with administrative data on income and other socio-demographics. Our findings reveal that spatial frictions significantly influence shopping behavior, with the distance elasticity of expenditures and number of visits being approximately 0.15. Our estimates suggests that consumption areas extend to about 10-20 minutes of travel time, depending on household type. Traditional gravity estimates are shown to be considerably biased due to the endogenous nature of store locations. By combining distance elasticities with a simple model of shopping behavior, we derive store-specific attraction parameters and compute a measure of local grocery market access. Market access varies significantly across different locations, and consistent with spatial equilibrium theory, this variation is reflected in local rents. Consumption frictions are more pronounced for older and smaller households and vary with income, primarily in non-urban areas. Overall, spatial variations in market access are more significant than spatial dispersion in income. Combined with the positive correlation between income and market access, this suggests an important role for real income disparities.
@@ -53,7 +64,7 @@ This paper analyzes spatial consumption frictions by estimating the causal effec
 </div>
 
 ### Does new housing supply benefit the poor? Evidence from moving chains
-<small> with <a href="https://www.linkedin.com/in/lukas-hauck-990091261/?originalSubdomain=ch">Lukas Hauck</a></small>
+<small> with <a href="https://www.linkedin.com/in/lukas-hauck-990091261/?originalSubdomain=ch">Lukas Hauck</a> (<i>Working Paper</i>)</small>
 
 ## Other Writing
 
