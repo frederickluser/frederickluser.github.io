@@ -14,6 +14,13 @@ From September 2023 to March 2024, I had the privilege of being a visiting resea
 You can download my <a href="https://frederickluser.github.io/files/resume_frederic_kluser.pdf" download>CV</a> here.
 
 ## Publications
+### Who Shops Online? The Role of Policy, Household Characteristics, and Family Networks (2026, accepted)
+<small>with <a href="https://maxvehrlich.ch/">Maximilian von Ehrlich</a>, <i>Swiss Journal of Economics and Statistics</i> [ <a href="#/" onclick="visib('online')">Abstract</a> | <a href="https://frederickluser.github.io/files/Online_Shopping.pdf" download>Download</a> ] </small>
+<div id="online" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
+This paper examines the unintended effects of public policy measures and social dynamics on e-commerce adoption, using a comprehensive dataset of household-level transactions at Switzerland’s largest retailer matched to administrative registers. First, we study how the COVID-19 pandemic and temporary policy measures impacted the adoption of online grocery shopping in Switzerland, and we document a substantial increase in online expenditures. This shift is heterogeneous, with younger, larger, and richer households, as well as those with limited local store access, being particularly responsive. Moreover, we find that stricter mitigation policies intensify online usage. Second, we examine the role of social networks in accelerating the diffusion of e-commerce. We highlight strong peer effects: within multi-generational families and among neighbors, the adoption of online shopping by one household significantly raises the likelihood of adoption by others. These findings reveal the impact of policy measures and the importance of social networks in shaping digital consumption behavior.
+</small><br><br/>
+</div>
+
 ### Cross-Border Shopping: Evidence from Household Transaction Records (2025)
 <small><i>Swiss Journal of Economics and Statistics 161</i>, 9 [ <a href="#/" onclick="visib('crossborder')">Abstract</a> | <a href="https://doi.org/10.1186/s41937-025-00141-w" download>Journal Link</a> ] </small>
 <div id="crossborder" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
@@ -32,25 +39,6 @@ administrative data. We document a strong intergenerational persistence of diet 
 in the persistence of diet indicate that the socioeconomic background and location of children may be crucial to fostering beneficial eating habits and breaking unhealthy ones. We discuss 
 potential mechanisms and show in a counterfactual analysis that only 10% of the intergenerational persistence in diet can be explained by the transmission of income and education. In 
 line with these results, we introduce a habit formation model and argue that the formation of dietary habits during childhood and their slow alteration are key drivers of our findings.
-</small><br><br/>
-</div>
-
-### Who Shops Online? The Role of Policy, Household Characteristics, and Family Networks
-<small>[ <a href="#/" onclick="visib('online')">Abstract</a> | <a href="https://frederickluser.github.io/files/Online_Shopping.pdf" download>Download</a> ] with <a href="https://maxvehrlich.ch/">Maximilian von Ehrlich</a> (Revise & Resubmit (resubmitted), <i>Swiss Journal of Economics and Statistics</i>)</small>
-
-<div id="online" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
-This paper examines the unintended effects of public policy measures and social dynamics
-on e-commerce adoption, using a comprehensive dataset of household-level transactions at
-Switzerland’s largest retailer matched to administrative registers. First, we study how the
-COVID-19 pandemic and temporary policy measures impacted the adoption of online grocery
-shopping in Switzerland and we document a substantial increase in online expenditures. This
-shift is heterogeneous: younger, larger, and richer households, as well as those with limited
-local store access, are particularly responsive. Moreover, we find that stricter mitigation
-policies intensify online usage. Second, we analyze the role of social networks in accelerating
-e-commerce diffusion. We highlight strong peer effects: within multi-generational families
-and among neighbors, the adoption of online shopping by one household significantly raises
-the likelihood of adoption by others. These findings underscore the impact of policy measures
-and the importance of social networks in shaping digital consumption behavior.
 </small><br><br/>
 </div>
 
