@@ -51,7 +51,14 @@ This paper analyzes spatial consumption frictions by estimating the causal effec
 </div>
 
 ### Does new housing supply benefit the poor? Evidence from moving chains
-<small> with <a href="https://www.linkedin.com/in/lukas-hauck-990091261/?originalSubdomain=ch">Lukas Hauck</a> (<i>Working Paper</i>)</small>
+<small>[ <a href="#/" onclick="visib('moving')">Abstract</a> | <a href="https://frederickluser.github.io/files/Moving_Chains.pdf" download>Download</a> ] with <a href="https://www.linkedin.com/in/lukas-hauck-990091261/?originalSubdomain=ch">Lukas Hauck</a> (<i>Working Paper</i>)</small>
+
+<div id="moving" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
+We study the country-wide effects of new residential housing supply using population-wide register data for Switzerland. New housing units attract predominantly high-income households but the triggered moving chains also enable lower-income households to move as affordable units get vacated. We expand existing evidence on moving chains in two new directions. First, we document that moving chain income gradients remain remarkably similar whether the new unit is located in municipalities with high or low vacancy rates, strict or lenient land-use regulations, and elastic or inelastic housing supply, though initial mover incomes vary across these market conditions. Second, alternative triggers—emigration, household consolidation, and deaths—account for the majority of initial vacancies and generate moving chains starting with substantially lower-income households. These findings demonstrate that housing supply expansions benefit lower-income households through moving chains.
+</small><br><br/>
+</div>
+
+
 
 ## Other Writing
 
