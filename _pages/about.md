@@ -11,8 +11,6 @@ redirect_from:
 Thank you for visiting! I'm an economist working at <a href="https://helvetia.ch/">Helvetia Insurance</a>. I received my Ph.D. in 2024 from the <a href="https://www.vwi.unibe.ch/index_eng.html">Department of Economics at the University of Bern</a>. 
 From September 2023 to March 2024, I had the privilege of being a visiting researcher at the <a href="https://real-estate.wharton.upenn.edu/">Wharton School at UPenn</a>. In my research, I focus on public and health economics.
 
-You can download my <a href="https://frederickluser.github.io/files/resume_frederic_kluser.pdf" download>CV</a> here.
-
 ## Publications
 ### Who Shops Online? The Role of Policy, Household Characteristics, and Family Networks (2026)
 <small><i>Swiss Journal of Economics and Statistics</i>, 162 (1), with <a href="https://maxvehrlich.ch/">Maximilian von Ehrlich</a> [ <a href="#/" onclick="visib('online')">Abstract</a> | <a href="https://doi.org/10.1186/s41937-025-00147-4" download>Journal Link</a> ] </small>
