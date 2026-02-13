@@ -48,7 +48,7 @@ This paper analyzes spatial consumption frictions by estimating the causal effec
 </small><br><br/>
 </div>
 
-### Does new housing supply benefit the poor? Evidence from moving chains
+### Country-wide effects of new housing supply: Evidence from moving chains
 <small>[ <a href="#/" onclick="visib('moving')">Abstract</a> | <a href="https://frederickluser.github.io/files/Moving_Chains.pdf" download>Download</a> ] with <a href="https://www.linkedin.com/in/lukas-hauck-990091261/?originalSubdomain=ch">Lukas Hauck</a> (<i>Working Paper</i>)</small>
 
 <div id="moving" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
