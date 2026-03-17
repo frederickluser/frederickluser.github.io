@@ -12,9 +12,24 @@ Thank you for visiting! I'm an economist and data scientist working at the <a hr
 From September 2023 to March 2024, I had the privilege of being a visiting researcher at the <a href="https://real-estate.wharton.upenn.edu/">Wharton School at UPenn</a>. In my research, I focus on public and health economics.
 
 ## Publications
+
+### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits (2026) <small></small>
+<small> Accepted at <i>The Review of Economics and Statistics</i>, with <a href="https://martinapons.github.io/">Martina Pons</a> [ <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a> ] </small> 
+<div style="height: auto; width: auto; text-align: justify; line-height: 1.2" ><small>
+  
+Inadequate diets harm individual health, generate substantial healthcare costs, and reduce labor market income. Yet, the determinants of unhealthy eating remain poorly understood. 
+This paper provides novel evidence on the intergenerational transmission of dietary choices from parents to children by exploiting unique grocery transaction records matched with 
+administrative data. We document a strong intergenerational persistence of diet that exceeds income transmission across all measures we consider. At the same time, substantial heterogeneities 
+in the persistence of diet indicate that the socioeconomic background and location of children may be crucial to fostering beneficial eating habits and breaking unhealthy ones. We discuss 
+potential mechanisms and show in a counterfactual analysis that only 10% of the intergenerational persistence in diet can be explained by the transmission of income and education. In 
+line with these results, we introduce a habit formation model and argue that the formation of dietary habits during childhood and their slow alteration are key drivers of our findings.
+</small><br><br/>
+</div>
+
 ### Who Shops Online? The Role of Policy, Household Characteristics, and Family Networks (2026)
 <small><i>Swiss Journal of Economics and Statistics</i>, 162 (1), with <a href="https://maxvehrlich.ch/">Maximilian von Ehrlich</a> [ <a href="#/" onclick="visib('online')">Abstract</a> | <a href="https://doi.org/10.1186/s41937-025-00147-4" download>Journal Link</a> ] </small>
 <div id="online" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
+  
 This paper examines the unintended effects of public policy measures and social dynamics on e-commerce adoption, using a comprehensive dataset of household level transactions at Switzerland’s largest retailer matched to administrative registers. First, we study how the COVID-19 pandemic and temporary policy measures impacted the adoption of online grocery shopping in Switzerland, and we document a substantial increase in online expenditures. This shift is heterogeneous, with younger, larger, and richer households, as well as those with limited local store access, being particularly responsive. Moreover, we find that stricter mitigation policies intensify online usage. Second, we examine the role of social networks in accelerating the diffusion of e-commerce. We highlight strong peer effects: within multi-generational families and among neighbors, the adoption of online shopping by one household significantly raises the likelihood of adoption by others. These findings reveal the impact of policy measures and the importance of social networks in shaping digital consumption behavior.
 </small><br><br/>
 </div>
@@ -22,21 +37,18 @@ This paper examines the unintended effects of public policy measures and social 
 ### Cross-Border Shopping: Evidence from Household Transaction Records (2025)
 <small><i>Swiss Journal of Economics and Statistics</i>, 161 (9) [ <a href="#/" onclick="visib('crossborder')">Abstract</a> | <a href="https://doi.org/10.1186/s41937-025-00141-w" download>Journal Link</a> ] </small>
 <div id="crossborder" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
+  
 Cross-border shopping expands product variety and lowers prices for consumers in high-price countries, but it diminishes domestic tax revenues, reduces sales, and shifts demand away from local retailers. Exploiting Switzerland’s COVID-19-induced border closure as a natural experiment, I investigate the socioeconomic implications of cross-border shopping. Linking detailed grocery transaction records for 710,000 households to administrative data, I find that the border closure raises domestic grocery expenditures in border areas by an additional 10.4%. The benefits of cross-border shopping, however, are heterogeneous, and larger and lower-income households exhibit a particularly strong propensity to shop abroad. Based on these patterns, I estimate an annual loss of 1.5 billion Swiss francs in domestic grocery sales, equivalent to 3.8% of the total market.
 </small><br><br/>
 </div>
 
 ## Working Papers
-### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits <small></small>
-<small>[ <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a> ] with <a href="https://martinapons.github.io/">Martina Pons</a> (Revise & Resubmit (resubmitted), <i>The Review of Economics and Statistics</i>)</small> 
 
-<div style="height: auto; width: auto; text-align: justify; line-height: 1.2" ><small>
-Inadequate diets harm individual health, generate substantial healthcare costs, and reduce labor market income. Yet, the determinants of unhealthy eating remain poorly understood. 
-This paper provides novel evidence on the intergenerational transmission of dietary choices from parents to children by exploiting unique grocery transaction records matched with 
-administrative data. We document a strong intergenerational persistence of diet that exceeds income transmission across all measures we consider. At the same time, substantial heterogeneities 
-in the persistence of diet indicate that the socioeconomic background and location of children may be crucial to fostering beneficial eating habits and breaking unhealthy ones. We discuss 
-potential mechanisms and show in a counterfactual analysis that only 10% of the intergenerational persistence in diet can be explained by the transmission of income and education. In 
-line with these results, we introduce a habit formation model and argue that the formation of dietary habits during childhood and their slow alteration are key drivers of our findings.
+### Country-wide effects of new housing supply: Evidence from moving chains
+<small>[ <a href="#/" onclick="visib('moving')">Abstract</a> | <a href="https://frederickluser.github.io/files/Moving_Chains.pdf" download>Download</a> ] with <a href="https://www.linkedin.com/in/lukas-hauck-990091261/?originalSubdomain=ch">Lukas Hauck</a> (<i>Submitted</i>)</small>
+
+<div id="moving" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
+We study the country-wide effects of new residential housing supply using population-wide register data for Switzerland. New housing units attract predominantly high-income households but the triggered moving chains also enable lower-income households to move as affordable units get vacated. We expand existing evidence on moving chains in two new directions. First, we document that moving chain income gradients remain remarkably similar whether the new unit is located in municipalities with high or low vacancy rates, strict or lenient land-use regulations, and elastic or inelastic housing supply, though initial mover incomes vary across these market conditions. Second, alternative triggers—emigration, household consolidation, and deaths—account for the majority of initial vacancies and generate moving chains starting with substantially lower-income households. These findings demonstrate that housing supply expansions benefit lower-income households through moving chains.
 </small><br><br/>
 </div>
 
@@ -48,13 +60,7 @@ This paper analyzes spatial consumption frictions by estimating the causal effec
 </small><br><br/>
 </div>
 
-### Country-wide effects of new housing supply: Evidence from moving chains
-<small>[ <a href="#/" onclick="visib('moving')">Abstract</a> | <a href="https://frederickluser.github.io/files/Moving_Chains.pdf" download>Download</a> ] with <a href="https://www.linkedin.com/in/lukas-hauck-990091261/?originalSubdomain=ch">Lukas Hauck</a> (<i>Working Paper</i>)</small>
 
-<div id="moving" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
-We study the country-wide effects of new residential housing supply using population-wide register data for Switzerland. New housing units attract predominantly high-income households but the triggered moving chains also enable lower-income households to move as affordable units get vacated. We expand existing evidence on moving chains in two new directions. First, we document that moving chain income gradients remain remarkably similar whether the new unit is located in municipalities with high or low vacancy rates, strict or lenient land-use regulations, and elastic or inelastic housing supply, though initial mover incomes vary across these market conditions. Second, alternative triggers—emigration, household consolidation, and deaths—account for the majority of initial vacancies and generate moving chains starting with substantially lower-income households. These findings demonstrate that housing supply expansions benefit lower-income households through moving chains.
-</small><br><br/>
-</div>
 
 
 
