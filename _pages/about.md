@@ -14,7 +14,7 @@ From September 2023 to March 2024, I had the privilege of being a visiting resea
 ## Publications
 
 ### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits (2026) <small></small>
-<small> Conditionally Accepted at <i>The Review of Economics and Statistics</i>, with <a href="https://martinapons.github.io/">Martina Pons</a> [ <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Download</a> ] </small> 
+<small> Conditionally Accepted at <i>The Review of Economics and Statistics</i>, with <a href="https://martinapons.github.io/">Martina Pons</a> [ <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Paper</a> | <a href="https://frederickluser.github.io/files/Intergenerational_Diet_OnlineAppendix.pdf" download>Online Appendix</a> ] </small> 
 <div style="height: auto; width: auto; text-align: justify; line-height: 1.2" ><small>
   
 Inadequate diets harm individual health, generate substantial healthcare costs, and reduce labor market income. Yet, the determinants of unhealthy eating remain poorly understood. 
