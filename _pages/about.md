@@ -42,6 +42,10 @@ Cross-border shopping expands product variety and lowers prices for consumers in
 ### Country-wide effects of new housing supply: Evidence from moving chains
 <small>[ <a href="#/" onclick="visib('moving')">Abstract</a> | <a href="https://frederickluser.github.io/files/Moving_Chains.pdf" download>Download</a> ] with <a href="https://www.linkedin.com/in/lukas-hauck-990091261/?originalSubdomain=ch">Lukas Hauck</a> (<i>Revise & Resubmit</i>)</small>
 
+[comment]: <> ( Media Coverage: )
+[comment]: <> ( <a href="https://www.tagesanzeiger.ch/wohnungsnot-schweiz-wie-neubauten-mietpreise-senken1-906743456813">Tagesanzeiger</a> )
+[comment]: <> ( <a href="https://bajour.ch/a/kurt-schmidheiny-uni-basel-teurer-neubau-fuehrt-zu-guenstigem-wohnraum">Bajour</a> )
+
 <div id="moving" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 We study the country-wide effects of new residential housing supply using population-wide register data for Switzerland. New housing units attract predominantly high-income households but the triggered moving chains also enable lower-income households to move as affordable units get vacated. We expand existing evidence on moving chains in two new directions. First, we document that moving chain income gradients remain remarkably similar whether the new unit is located in municipalities with high or low vacancy rates, strict or lenient land-use regulations, and elastic or inelastic housing supply, though initial mover incomes vary across these market conditions. Second, alternative triggers—emigration, household consolidation, and deaths—account for the majority of initial vacancies and generate moving chains starting with substantially lower-income households. These findings demonstrate that housing supply expansions benefit lower-income households through moving chains.
 </small><br><br/>
