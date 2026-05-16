@@ -16,7 +16,7 @@ You can find my CV <a href="https://frederickluser.github.io/files/CV_Frederic_K
 ## Publications
 
 ### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits (2026) <small></small>
-<small> <i>The Review of Economics and Statistics</i>, with <a href="https://martinapons.github.io/">Martina Pons</a> [ <a href="#/" onclick="visib('apple')">Abstract</a> | <a href="https://doi.org/10.1162/REST.a.1780" download>Paper</a> | <a href="https://frederickluser.github.io/files/Intergenerational_Diet_OnlineAppendix.pdf" download>Online Appendix</a> ] </small> 
+<small> <i>The Review of Economics and Statistics</i> (forthcoming), with <a href="https://martinapons.github.io/">Martina Pons</a> [ <a href="#/" onclick="visib('apple')">Abstract</a> | <a href="https://doi.org/10.1162/REST.a.1780" download>Paper</a> | <a href="https://frederickluser.github.io/files/Intergenerational_Diet_OnlineAppendix.pdf" download>Online Appendix</a> ] </small> 
 
 <div id="apple" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 This paper provides novel evidence on how dietary habits – a key health behavior – are transmitted across generations, exploiting unique grocery transaction data linked with administrative records. We document strong intergenerational persistence in dietary habits, exceeding that of income, and consider several channels that might explain this pattern. Specifically, we find that socioeconomic status and geography account for only a small share of the transmission. Combined with the absence of a dietary response following a parent’s unexpected lifestyle-related death, these findings underscore the importance of early-life influences and habit formation.
