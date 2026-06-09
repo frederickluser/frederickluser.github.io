@@ -33,9 +33,9 @@ This paper examines the unintended effects of public policy measures and social 
 </div>
 
 ### Cross-Border Shopping: Evidence from Household Transaction Records (2025)
-<small><i>Swiss Journal of Economics and Statistics</i>, 161 (9) [ <a href="#/" onclick="visib('crossborder')">Abstract</a> | <a href="https://doi.org/10.1186/s41937-025-00141-w">Publication</a> ]  
+<small><i>Swiss Journal of Economics and Statistics</i>, 161 (9) [ <a href="#/" onclick="visib('crossborder')">Abstract</a> | <a href="https://doi.org/10.1186/s41937-025-00141-w">Publication</a> ]</small>  
 
-Award: <a href="https://link.springer.com/journal/41937/updates/27853526">SJES Best Paper Award 2026</a></small>
+<small>Award: <a href="https://link.springer.com/journal/41937/updates/27853526">SJES Best Paper Award 2026</a></small>
 
 <div id="crossborder" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 Cross-border shopping expands product variety and lowers prices for consumers in high-price countries, but it diminishes domestic tax revenues, reduces sales, and shifts demand away from local retailers. Exploiting Switzerland’s COVID-19-induced border closure as a natural experiment, I investigate the socioeconomic implications of cross-border shopping. Linking detailed grocery transaction records for 710,000 households to administrative data, I find that the border closure raises domestic grocery expenditures in border areas by an additional 10.4%. The benefits of cross-border shopping, however, are heterogeneous, and larger and lower-income households exhibit a particularly strong propensity to shop abroad. Based on these patterns, I estimate an annual loss of 1.5 billion Swiss francs in domestic grocery sales, equivalent to 3.8% of the total market.
