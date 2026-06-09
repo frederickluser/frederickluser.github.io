@@ -34,7 +34,6 @@ This paper examines the unintended effects of public policy measures and social 
 
 ### Cross-Border Shopping: Evidence from Household Transaction Records (2025)
 <small><i>Swiss Journal of Economics and Statistics</i>, 161 (9) [ <a href="#/" onclick="visib('crossborder')">Abstract</a> | <a href="https://doi.org/10.1186/s41937-025-00141-w">Publication</a> ]</small>  
-
 <small>Award: <a href="https://link.springer.com/journal/41937/updates/27853526">SJES Best Paper Award 2026</a></small>
 
 <div id="crossborder" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
@@ -46,7 +45,6 @@ Cross-border shopping expands product variety and lowers prices for consumers in
 
 ### Country-wide effects of new housing supply: Evidence from moving chains
 <small>[ <a href="#/" onclick="visib('moving')">Abstract</a> | <a href="https://frederickluser.github.io/files/Moving_Chains.pdf" download>Working Paper</a> ] with <a href="https://www.linkedin.com/in/lukas-hauck-990091261/?originalSubdomain=ch">Lukas Hauck</a> (<i>Revise & Resubmit</i>)  
-
 Media Coverage: <a href="https://www.tagesanzeiger.ch/wohnungsnot-schweiz-wie-neubauten-mietpreise-senken1-906743456813">Tagesanzeiger</a>, <a href="https://bajour.ch/a/kurt-schmidheiny-uni-basel-teurer-neubau-fuehrt-zu-guenstigem-wohnraum">Bajour</a>, <a href="https://www.avenir-suisse.ch/blog-die-unsichtbare-verdraengung/">Avenir Suisse</a></small>
 
 <div id="moving" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
