@@ -33,7 +33,9 @@ This paper examines the unintended effects of public policy measures and social 
 </div>
 
 ### Cross-Border Shopping: Evidence from Household Transaction Records (2025)
-<small><i>Swiss Journal of Economics and Statistics</i>, 161 (9) [ <a href="#/" onclick="visib('crossborder')">Abstract</a> | <a href="https://doi.org/10.1186/s41937-025-00141-w">Publication</a> | <a href="https://link.springer.com/journal/41937/updates/27853526">SJES Best Paper Award 2026</a> ]</small>
+<small><i>Swiss Journal of Economics and Statistics</i>, 161 (9) [ <a href="#/" onclick="visib('crossborder')">Abstract</a> | <a href="https://doi.org/10.1186/s41937-025-00141-w">Publication</a> ]  
+
+Award: <a href="https://link.springer.com/journal/41937/updates/27853526">SJES Best Paper Award 2026</a></small>
 
 <div id="crossborder" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 Cross-border shopping expands product variety and lowers prices for consumers in high-price countries, but it diminishes domestic tax revenues, reduces sales, and shifts demand away from local retailers. Exploiting Switzerland’s COVID-19-induced border closure as a natural experiment, I investigate the socioeconomic implications of cross-border shopping. Linking detailed grocery transaction records for 710,000 households to administrative data, I find that the border closure raises domestic grocery expenditures in border areas by an additional 10.4%. The benefits of cross-border shopping, however, are heterogeneous, and larger and lower-income households exhibit a particularly strong propensity to shop abroad. Based on these patterns, I estimate an annual loss of 1.5 billion Swiss francs in domestic grocery sales, equivalent to 3.8% of the total market.
@@ -43,7 +45,9 @@ Cross-border shopping expands product variety and lowers prices for consumers in
 ## Working Papers
 
 ### Country-wide effects of new housing supply: Evidence from moving chains
-<small>[ <a href="#/" onclick="visib('moving')">Abstract</a> | <a href="https://frederickluser.github.io/files/Moving_Chains.pdf" download>Working Paper</a> ] with <a href="https://www.linkedin.com/in/lukas-hauck-990091261/?originalSubdomain=ch">Lukas Hauck</a> (<i>Revise & Resubmit</i>) - Media Coverage: <a href="https://www.tagesanzeiger.ch/wohnungsnot-schweiz-wie-neubauten-mietpreise-senken1-906743456813">Tagesanzeiger</a>, <a href="https://bajour.ch/a/kurt-schmidheiny-uni-basel-teurer-neubau-fuehrt-zu-guenstigem-wohnraum">Bajour</a>, <a href="https://www.avenir-suisse.ch/blog-die-unsichtbare-verdraengung/">Avenir Suisse</a></small>
+<small>[ <a href="#/" onclick="visib('moving')">Abstract</a> | <a href="https://frederickluser.github.io/files/Moving_Chains.pdf" download>Working Paper</a> ] with <a href="https://www.linkedin.com/in/lukas-hauck-990091261/?originalSubdomain=ch">Lukas Hauck</a> (<i>Revise & Resubmit</i>)  
+
+Media Coverage: <a href="https://www.tagesanzeiger.ch/wohnungsnot-schweiz-wie-neubauten-mietpreise-senken1-906743456813">Tagesanzeiger</a>, <a href="https://bajour.ch/a/kurt-schmidheiny-uni-basel-teurer-neubau-fuehrt-zu-guenstigem-wohnraum">Bajour</a>, <a href="https://www.avenir-suisse.ch/blog-die-unsichtbare-verdraengung/">Avenir Suisse</a></small>
 
 <div id="moving" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
 We study the country-wide effects of new residential housing supply using population-wide register data for Switzerland. New housing units attract predominantly high-income households but the triggered moving chains also enable lower-income households to move as affordable units get vacated. We expand existing evidence on moving chains in two new directions. First, we document that moving chain income gradients remain remarkably similar whether the new unit is located in municipalities with high or low vacancy rates, strict or lenient land-use regulations, and elastic or inelastic housing supply, though initial mover incomes vary across these market conditions. Second, alternative triggers—emigration, household consolidation, and deaths—account for the majority of initial vacancies and generate moving chains starting with substantially lower-income households. These findings demonstrate that housing supply expansions benefit lower-income households through moving chains.
