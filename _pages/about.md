@@ -16,7 +16,7 @@ You can find my CV <a href="https://frederickluser.github.io/files/CV_Frederic_K
 ## Publications
 
 ### The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits (2026) <small></small>
-<small> <i>The Review of Economics and Statistics</i> (forthcoming), with <a href="https://martinapons.github.io/">Martina Pons</a> [ <a href="#/" onclick="visib('apple')">Abstract</a> | <a href="https://doi.org/10.1162/REST.a.1780">Publication</a> | <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf">Working Paper</a> | 
+<small> <i>The Review of Economics and Statistics</i> (forthcoming), with <a href="https://martinapons.github.io/">Martina Pons</a> [ <a href="#/" onclick="visib('apple')">Abstract</a> | <a href="https://doi.org/10.1162/REST.a.1780">Publication</a> | <a href="https://frederickluser.github.io/files/Intergenerational_Diet.pdf" download>Working Paper</a> | 
 <a href="https://frederickluser.github.io/files/Intergenerational_Diet_OnlineAppendix.pdf" download>Online Appendix</a> ] </small> 
 
 <div id="apple" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
