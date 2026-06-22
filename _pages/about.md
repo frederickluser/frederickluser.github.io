@@ -61,21 +61,6 @@ This paper leverages quasi-experimental variation from store openings and 1.5 bi
 </div>
 
 
-## Other Writing
-
-### Food for Thought - Consumer Mobility and Nutritional Choices (Thesis)
-<small>[ <a href="#/" onclick="visib('thesis')">Abstract</a> | <a href="https://boristheses.unibe.ch/5469/">Link</a> ] 
-<div id="thesis" style="display: none; height: auto; width: auto;text-align: justify; line-height: 1.2" ><small>
-This thesis includes three papers investigating different dimensions of consumer behavior in Switzerland within the fields of urban and health economics: eating patterns within families across generations, consumer mobility and grocery market access within cities, and shopping trips across national borders. Chapter One, titled The Apple Does Not Fall Far From the Tree: Intergenerational Persistence of Dietary Habits, studies the intergenerational persistence of healthy eating patterns. Chapter Two, titled Cross-Border Shopping: Evidence from Household Transaction Records, analyzes the consumers’ response to the COVID-19-induced national border closure in Switzerland. Chapter Three, titled Spatial Frictions in Retail Consumption, exploits supermarket openings to estimate distance decay functions and incorporates them into a simple framework of spatial shopping. Addressing these topics contributes to (i) the design of effective public health interventions and (ii) land-use restrictions and urban planning that account for the complexities of spatial consumer behavior.
-</small><br><br/>
-</div>
-
-### Arbeit und Kapital in Zeiten der Wissensgesellschaft (in German)
-<small>[ <a href="https://reatch.ch/publikationen/arbeit-und-kapital-in-zeiten-der-wissensgesellschaft">Link</a> ] with <a href="https://www.guidobaldi.ch/">Guido Baldi</a> </small>
-
-### Firmenersparnisse und der Arbeitsanteil am Einkommen (in German)
-<small>[ <a href="https://www.econstor.eu/handle/10419/193691">Link</a> ]  with <a href="https://www.guidobaldi.ch/">Guido Baldi</a> </small>
-
 [//]: This java script is the button to show abstract
 <script>
  function visib(id) {
